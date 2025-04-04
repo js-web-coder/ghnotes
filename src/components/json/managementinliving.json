@@ -1,0 +1,351 @@
+{
+    "title": "Management in Living",
+    "section_a": {
+      "questions": [
+        {
+          "question": "What is the primary goal of management?",
+          "options": ["To increase chaos", "To achieve goals efficiently", "To avoid planning", "To reduce teamwork"],
+          "correct": "To achieve goals efficiently"
+        },
+        {
+          "question": "Which of the following is a key management function?",
+          "options": ["Ignoring tasks", "Planning", "Wasting resources", "Avoiding decisions"],
+          "correct": "Planning"
+        },
+        {
+          "question": "What does the term \"organization\" mean in management?",
+          "options": ["Creating disorder", "Arranging resources and tasks", "Ignoring schedules", "Reducing communication"],
+          "correct": "Arranging resources and tasks"
+        },
+        {
+          "question": "Who is responsible for setting goals in a management process?",
+          "options": ["Only employees", "Managers", "External customers", "Random individuals"],
+          "correct": "Managers"
+        },
+        {
+          "question": "What is the purpose of decision-making in management?",
+          "options": ["To delay actions", "To choose the best course of action", "To confuse staff", "To avoid responsibility"],
+          "correct": "To choose the best course of action"
+        },
+        {
+          "question": "Which management principle emphasizes clear task assignment?",
+          "options": ["Centralization", "Division of work", "Procrastination", "Overlap of duties"],
+          "correct": "Division of work"
+        },
+        {
+          "question": "What does \"controlling\" involve in management?",
+          "options": ["Ignoring performance", "Monitoring and correcting activities", "Reducing goals", "Avoiding feedback"],
+          "correct": "Monitoring and correcting activities"
+        },
+        {
+          "question": "Which resource is most critical in management?",
+          "options": ["Chaos", "Time", "Noise", "Conflict"],
+          "correct": "Time"
+        },
+        {
+          "question": "What is delegation in management?",
+          "options": ["Doing all tasks alone", "Assigning tasks to others", "Avoiding responsibility", "Ignoring team input"],
+          "correct": "Assigning tasks to others"
+        },
+        {
+          "question": "Which management function ensures goals are met?",
+          "options": ["Dreaming", "Evaluating", "Complaining", "Delaying"],
+          "correct": "Evaluating"
+        },
+        {
+          "question": "What is a characteristic of effective management?",
+          "options": ["Lack of communication", "Clear goals", "Unplanned actions", "Wasted resources"],
+          "correct": "Clear goals"
+        },
+        {
+          "question": "Which principle suggests treating employees fairly?",
+          "options": ["Inequality", "Equity", "Favoritism", "Neglect"],
+          "correct": "Equity"
+        },
+        {
+          "question": "What does \"span of control\" refer to?",
+          "options": ["Time management", "Number of subordinates a manager oversees", "Financial planning", "Resource waste"],
+          "correct": "Number of subordinates a manager oversees"
+        },
+        {
+          "question": "Which management tool helps prioritize tasks?",
+          "options": ["Random guessing", "Time management matrix", "Procrastination", "Ignoring deadlines"],
+          "correct": "Time management matrix"
+        },
+        {
+          "question": "What is the benefit of teamwork in management?",
+          "options": ["Increased conflict", "Improved productivity", "Reduced cooperation", "Slower decisions"],
+          "correct": "Improved productivity"
+        },
+        {
+          "question": "Which principle ensures unity in an organization?",
+          "options": ["Disorganization", "Unity of command", "Multiple leaders", "Confusion"],
+          "correct": "Unity of command"
+        },
+        {
+          "question": "What is the first step in the management process?",
+          "options": ["Controlling", "Planning", "Delegating", "Evaluating"],
+          "correct": "Planning"
+        },
+        {
+          "question": "What does \"resource management\" involve?",
+          "options": ["Wasting materials", "Using resources efficiently", "Ignoring budgets", "Overstocking"],
+          "correct": "Using resources efficiently"
+        },
+        {
+          "question": "Which management function involves motivating staff?",
+          "options": ["Planning", "Leading", "Organizing", "Controlling"],
+          "correct": "Leading"
+        },
+        {
+          "question": "What is a sign of poor management?",
+          "options": ["High morale", "Missed deadlines", "Clear communication", "Efficient resource use"],
+          "correct": "Missed deadlines"
+        },
+        {
+          "question": "What does \"authority\" mean in management?",
+          "options": ["Lack of power", "Right to make decisions", "Ignoring rules", "Avoiding responsibility"],
+          "correct": "Right to make decisions"
+        },
+        {
+          "question": "Which management principle avoids overloading employees?",
+          "options": ["Overwork", "Balance", "Neglect", "Chaos"],
+          "correct": "Balance"
+        },
+        {
+          "question": "What is the purpose of a budget in management?",
+          "options": ["To waste money", "To plan and control finances", "To confuse staff", "To overspend"],
+          "correct": "To plan and control finances"
+        },
+        {
+          "question": "Which skill is vital for a manager?",
+          "options": ["Ignoring feedback", "Communication", "Procrastination", "Isolation"],
+          "correct": "Communication"
+        },
+        {
+          "question": "What does \"efficiency\" mean in management?",
+          "options": ["Wasting time", "Achieving goals with minimal resources", "Increasing costs", "Reducing output"],
+          "correct": "Achieving goals with minimal resources"
+        },
+        {
+          "question": "Which management function sets the direction?",
+          "options": ["Controlling", "Planning", "Ignoring", "Delaying"],
+          "correct": "Planning"
+        },
+        {
+          "question": "What is a benefit of good management?",
+          "options": ["High turnover", "Goal achievement", "Confusion", "Wasted effort"],
+          "correct": "Goal achievement"
+        },
+        {
+          "question": "Which principle ensures tasks align with goals?",
+          "options": ["Randomness", "Unity of direction", "Disorganization", "Conflict"],
+          "correct": "Unity of direction"
+        },
+        {
+          "question": "What does \"supervision\" involve?",
+          "options": ["Ignoring staff", "Guiding and overseeing work", "Avoiding feedback", "Reducing goals"],
+          "correct": "Guiding and overseeing work"
+        },
+        {
+          "question": "Which management tool tracks progress?",
+          "options": ["Chaos", "Performance evaluation", "Neglect", "Guessing"],
+          "correct": "Performance evaluation"
+        },
+        {
+          "question": "What is the primary unit of society?",
+          "options": ["School", "Family", "Workplace", "Government"],
+          "correct": "Family"
+        },
+        {
+          "question": "What is a key responsibility of parents in family living?",
+          "options": ["Ignoring children", "Providing care and guidance", "Avoiding communication", "Wasting resources"],
+          "correct": "Providing care and guidance"
+        },
+        {
+          "question": "Which factor strengthens family relationships?",
+          "options": ["Conflict", "Communication", "Isolation", "Neglect"],
+          "correct": "Communication"
+        },
+        {
+          "question": "What is the purpose of a family budget?",
+          "options": ["To overspend", "To manage income and expenses", "To confuse members", "To waste money"],
+          "correct": "To manage income and expenses"
+        },
+        {
+          "question": "What does \"family values\" refer to?",
+          "options": ["Financial wealth", "Shared beliefs and principles", "Material possessions", "Social status"],
+          "correct": "Shared beliefs and principles"
+        },
+        {
+          "question": "Which activity promotes family unity?",
+          "options": ["Avoiding each other", "Eating meals together", "Ignoring traditions", "Reducing interaction"],
+          "correct": "Eating meals together"
+        },
+        {
+          "question": "What is a common challenge in family living?",
+          "options": ["Too much harmony", "Financial stress", "Excess time", "Perfect planning"],
+          "correct": "Financial stress"
+        },
+        {
+          "question": "What does \"role allocation\" mean in a family?",
+          "options": ["Ignoring duties", "Assigning tasks to members", "Avoiding responsibilities", "Creating chaos"],
+          "correct": "Assigning tasks to members"
+        },
+        {
+          "question": "Which resource is vital for family living?",
+          "options": ["Conflict", "Love and support", "Isolation", "Neglect"],
+          "correct": "Love and support"
+        },
+        {
+          "question": "What is a benefit of family planning?",
+          "options": ["Overpopulation", "Better resource management", "Increased stress", "Reduced care"],
+          "correct": "Better resource management"
+        },
+        {
+          "question": "What does \"conflict resolution\" involve in a family?",
+          "options": ["Ignoring disputes", "Addressing and solving disagreements", "Avoiding communication", "Escalating arguments"],
+          "correct": "Addressing and solving disagreements"
+        },
+        {
+          "question": "Which value promotes trust in a family?",
+          "options": ["Dishonesty", "Honesty", "Secrecy", "Deception"],
+          "correct": "Honesty"
+        },
+        {
+          "question": "What is a sign of a healthy family?",
+          "options": ["Constant fighting", "Mutual respect", "Lack of support", "Poor communication"],
+          "correct": "Mutual respect"
+        },
+        {
+          "question": "What does \"household management\" include?",
+          "options": ["Wasting resources", "Organizing daily tasks", "Ignoring chores", "Reducing teamwork"],
+          "correct": "Organizing daily tasks"
+        },
+        {
+          "question": "Which skill is important for family living?",
+          "options": ["Procrastination", "Cooperation", "Isolation", "Neglect"],
+          "correct": "Cooperation"
+        },
+        {
+          "question": "What is a purpose of family traditions?",
+          "options": ["To create conflict", "To strengthen bonds", "To waste time", "To reduce unity"],
+          "correct": "To strengthen bonds"
+        },
+        {
+          "question": "What does \"parenting\" involve?",
+          "options": ["Ignoring children", "Nurturing and educating", "Avoiding responsibility", "Reducing care"],
+          "correct": "Nurturing and educating"
+        },
+        {
+          "question": "Which factor can disrupt family living?",
+          "options": ["Teamwork", "Poor communication", "Shared goals", "Mutual support"],
+          "correct": "Poor communication"
+        },
+        {
+          "question": "What is a benefit of shared family goals?",
+          "options": ["Increased isolation", "Unified effort", "Reduced planning", "Wasted time"],
+          "correct": "Unified effort"
+        },
+        {
+          "question": "What does \"time management\" improve in a family?",
+          "options": ["Chaos", "Daily routines", "Stress", "Neglect"],
+          "correct": "Daily routines"
+        },
+        {
+          "question": "Which resource helps a family thrive?",
+          "options": ["Conflict", "Emotional support", "Disharmony", "Isolation"],
+          "correct": "Emotional support"
+        },
+        {
+          "question": "What is a common family goal?",
+          "options": ["Avoiding each other", "Ensuring well-being", "Creating stress", "Reducing care"],
+          "correct": "Ensuring well-being"
+        },
+        {
+          "question": "What does \"discipline\" teach in a family?",
+          "options": ["Chaos", "Responsibility", "Neglect", "Disrespect"],
+          "correct": "Responsibility"
+        },
+        {
+          "question": "Which activity supports family health?",
+          "options": ["Ignoring hygiene", "Preparing balanced meals", "Avoiding exercise", "Reducing care"],
+          "correct": "Preparing balanced meals"
+        },
+        {
+          "question": "What is a sign of poor family management?",
+          "options": ["Clear roles", "Constant arguments", "Shared duties", "Mutual respect"],
+          "correct": "Constant arguments"
+        },
+        {
+          "question": "What does \"financial planning\" prevent in a family?",
+          "options": ["Savings", "Debt", "Cooperation", "Security"],
+          "correct": "Debt"
+        },
+        {
+          "question": "Which value supports family harmony?",
+          "options": ["Dishonesty", "Trust", "Conflict", "Neglect"],
+          "correct": "Trust"
+        },
+        {
+          "question": "What is a benefit of family meetings?",
+          "options": ["Increased isolation", "Better decision-making", "Reduced communication", "More conflict"],
+          "correct": "Better decision-making"
+        },
+        {
+          "question": "What does \"caregiving\" involve in a family?",
+          "options": ["Ignoring needs", "Meeting emotional and physical needs", "Avoiding support", "Reducing effort"],
+          "correct": "Meeting emotional and physical needs"
+        },
+        {
+          "question": "Which principle ensures family tasks are completed?",
+          "options": ["Procrastination", "Coordination", "Chaos", "Neglect"],
+          "correct": "Coordination"
+        }
+      ]
+    },
+    "section_b": {
+      "questions": [
+        {
+          "part": "Management Principles",
+          "question": "Explain the importance of planning in management and provide an example of its application in daily life."
+        },
+        {
+          "part": "Family Living",
+          "question": "Discuss the role of communication in maintaining a healthy family and give an example of its impact."
+        },
+        {
+          "part": "Management Principles",
+          "question": "Describe the function of \"controlling\" in management and how it applies to managing a household."
+        },
+        {
+          "part": "Family Living",
+          "question": "Explain the importance of a family budget and how it affects family living."
+        },
+        {
+          "part": "Management Principles",
+          "question": "Discuss the concept of delegation and its benefits in a management context."
+        },
+        {
+          "part": "Family Living",
+          "question": "Describe how family values shape behavior and provide an example."
+        },
+        {
+          "part": "Family Living",
+          "question": "a) Define family living and list its key components. b) Explain how role allocation improves family functioning. c) Discuss one challenge in family living and suggest a solution."
+        },
+        {
+          "part": "Management Principles",
+          "question": "Explain how the principle of \"unity of command\" can be applied in a home setting."
+        },
+        {
+          "part": "Family Living",
+          "question": "Discuss the importance of conflict resolution in a family and describe one method to achieve it."
+        },
+        {
+          "part": "Management Principles",
+          "question": "Analyze how resource management enhances daily living and provide an example from a family context."
+        }
+      ]
+    }
+  }

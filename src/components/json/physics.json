@@ -1,0 +1,326 @@
+{
+    "title": "Physics",
+    "section_a": {
+      "questions": [
+        {
+          "question": "What is the formula for speed?",
+          "options": ["Distance / Time", "Time / Distance", "Distance * Time", "Distance + Time"],
+          "correct": "Distance / Time"
+        },
+        {
+          "question": "Which of the following is a vector quantity?",
+          "options": ["Speed", "Distance", "Velocity", "Time"],
+          "correct": "Velocity"
+        },
+        {
+          "question": "What is acceleration?",
+          "options": ["Change in speed", "Change in velocity", "Change in direction", "Change in time"],
+          "correct": "Change in velocity"
+        },
+        {
+          "question": "The SI unit of acceleration is:",
+          "options": ["m/s", "m/s²", "km/h", "m²/s"],
+          "correct": "m/s²"
+        },
+        {
+          "question": "Newton's first law states that an object will remain at rest or in uniform motion unless:",
+          "options": ["A force acts on it", "It is in space", "It is moving fast", "It is heavy"],
+          "correct": "A force acts on it"
+        },
+        {
+          "question": "Inertia is related to:",
+          "options": ["Newton's first law", "Newton's second law", "Newton's third law", "Gravity"],
+          "correct": "Newton's first law"
+        },
+        {
+          "question": "The formula F = ma represents:",
+          "options": ["Newton's first law", "Newton's second law", "Newton's third law", "Law of gravity"],
+          "correct": "Newton's second law"
+        },
+        {
+          "question": "If mass increases and acceleration remains constant, force:",
+          "options": ["Increases", "Decreases", "Stays the same", "Becomes zero"],
+          "correct": "Increases"
+        },
+        {
+          "question": "Newton's third law involves:",
+          "options": ["Action and reaction", "Inertia", "Acceleration", "Gravity"],
+          "correct": "Action and reaction"
+        },
+        {
+          "question": "When you push against a wall, the wall pushes back with:",
+          "options": ["Equal force", "Greater force", "Less force", "No force"],
+          "correct": "Equal force"
+        },
+        {
+          "question": "Momentum is calculated as:",
+          "options": ["Mass * Velocity", "Mass / Velocity", "Velocity / Mass", "Mass + Velocity"],
+          "correct": "Mass * Velocity"
+        },
+        {
+          "question": "The unit of momentum is:",
+          "options": ["kg m/s", "N", "m/s", "kg"],
+          "correct": "kg m/s"
+        },
+        {
+          "question": "Work is done when:",
+          "options": ["Force is applied over a distance", "Force is applied without movement", "Object is heavy", "Object is light"],
+          "correct": "Force is applied over a distance"
+        },
+        {
+          "question": "The SI unit of work is:",
+          "options": ["Joule", "Newton", "Watt", "Meter"],
+          "correct": "Joule"
+        },
+        {
+          "question": "Power is defined as:",
+          "options": ["Work / Time", "Work * Time", "Force * Distance", "Force / Distance"],
+          "correct": "Work / Time"
+        },
+        {
+          "question": "The unit of power is:",
+          "options": ["Joule", "Newton", "Watt", "Meter"],
+          "correct": "Watt"
+        },
+        {
+          "question": "What is the difference between speed and velocity?",
+          "options": ["Speed is scalar, velocity is vector", "Speed is vector, velocity is scalar", "Both are the same", "Speed includes direction, velocity does not"],
+          "correct": "Speed is scalar, velocity is vector"
+        },
+        {
+          "question": "What is the formula for acceleration?",
+          "options": ["Change in velocity / Time", "Change in speed / Time", "Velocity / Time", "Speed / Time"],
+          "correct": "Change in velocity / Time"
+        },
+        {
+          "question": "What is the law of conservation of momentum?",
+          "options": ["Momentum is conserved in a closed system", "Momentum increases over time", "Momentum decreases over time", "Momentum is zero"],
+          "correct": "Momentum is conserved in a closed system"
+        },
+        {
+          "question": "What is kinetic energy?",
+          "options": ["Energy of motion", "Energy of position", "Energy of light", "Energy of heat"],
+          "correct": "Energy of motion"
+        },
+        {
+          "question": "Pressure is defined as:",
+          "options": ["Force / Area", "Force * Area", "Area / Force", "Force + Area"],
+          "correct": "Force / Area"
+        },
+        {
+          "question": "The SI unit of pressure is:",
+          "options": ["Pascal", "Newton", "Joule", "Watt"],
+          "correct": "Pascal"
+        },
+        {
+          "question": "Atmospheric pressure is measured using:",
+          "options": ["Thermometer", "Barometer", "Hydrometer", "Anemometer"],
+          "correct": "Barometer"
+        },
+        {
+          "question": "At sea level, atmospheric pressure is approximately:",
+          "options": ["101,325 Pa", "1,000 Pa", "10,000 Pa", "100,000 Pa"],
+          "correct": "101,325 Pa"
+        },
+        {
+          "question": "Pressure in a liquid increases with:",
+          "options": ["Depth", "Temperature", "Volume", "Surface area"],
+          "correct": "Depth"
+        },
+        {
+          "question": "The formula for pressure in a liquid is:",
+          "options": ["Density * g * height", "Density / g / height", "Density * g / height", "Density / g * height"],
+          "correct": "Density * g * height"
+        },
+        {
+          "question": "Hydraulic systems work based on:",
+          "options": ["Pascal's principle", "Archimedes' principle", "Bernoulli's principle", "Newton's laws"],
+          "correct": "Pascal's principle"
+        },
+        {
+          "question": "In a hydraulic system, force is multiplied by:",
+          "options": ["Increasing area", "Decreasing area", "Increasing volume", "Decreasing volume"],
+          "correct": "Increasing area"
+        },
+        {
+          "question": "Archimedes' principle states that:",
+          "options": ["Buoyant force equals weight of displaced fluid", "Pressure increases with depth", "Force equals mass times acceleration", "Energy is conserved"],
+          "correct": "Buoyant force equals weight of displaced fluid"
+        },
+        {
+          "question": "An object floats if:",
+          "options": ["Its density is less than the fluid's density", "Its density is greater than the fluid's density", "It is heavy", "It is light"],
+          "correct": "Its density is less than the fluid's density"
+        },
+        {
+          "question": "Bernoulli's principle relates to:",
+          "options": ["Fluid flow and pressure", "Solid mechanics", "Thermodynamics", "Electromagnetism"],
+          "correct": "Fluid flow and pressure"
+        },
+        {
+          "question": "According to Bernoulli's principle, when fluid speed increases, pressure:",
+          "options": ["Decreases", "Increases", "Stays the same", "Becomes zero"],
+          "correct": "Decreases"
+        },
+        {
+          "question": "What is the unit of pressure in the CGS system?",
+          "options": ["Dyne/cm²", "Pascal", "Newton/m²", "Joule"],
+          "correct": "Dyne/cm²"
+        },
+        {
+          "question": "What is the pressure at the bottom of a swimming pool compared to the surface?",
+          "options": ["Higher", "Lower", "The same", "Zero"],
+          "correct": "Higher"
+        },
+        {
+          "question": "What is the principle behind a hydraulic lift?",
+          "options": ["Pascal's principle", "Archimedes' principle", "Bernoulli's principle", "Newton's third law"],
+          "correct": "Pascal's principle"
+        },
+        {
+          "question": "How many states of matter are there?",
+          "options": ["2", "3", "4", "5"],
+          "correct": "4"
+        },
+        {
+          "question": "Which state of matter has a definite shape and volume?",
+          "options": ["Solid", "Liquid", "Gas", "Plasma"],
+          "correct": "Solid"
+        },
+        {
+          "question": "Solids have:",
+          "options": ["Fixed shape and volume", "Fixed shape but variable volume", "Variable shape and volume", "Variable shape but fixed volume"],
+          "correct": "Fixed shape and volume"
+        },
+        {
+          "question": "The particles in a solid are:",
+          "options": ["Loosely packed", "Tightly packed", "Free to move", "Highly energetic"],
+          "correct": "Tightly packed"
+        },
+        {
+          "question": "Liquids have:",
+          "options": ["Fixed shape and volume", "Fixed shape but variable volume", "Variable shape and fixed volume", "Variable shape and volume"],
+          "correct": "Variable shape and fixed volume"
+        },
+        {
+          "question": "The particles in a liquid:",
+          "options": ["Are fixed in place", "Can move past each other", "Are far apart", "Have no energy"],
+          "correct": "Can move past each other"
+        },
+        {
+          "question": "Gases have:",
+          "options": ["Fixed shape and volume", "Fixed shape but variable volume", "Variable shape and fixed volume", "Variable shape and volume"],
+          "correct": "Variable shape and volume"
+        },
+        {
+          "question": "The particles in a gas:",
+          "options": ["Are tightly packed", "Are loosely packed", "Can move freely", "Have no motion"],
+          "correct": "Can move freely"
+        },
+        {
+          "question": "The process of changing from solid to liquid is:",
+          "options": ["Freezing", "Melting", "Evaporation", "Condensation"],
+          "correct": "Melting"
+        },
+        {
+          "question": "The process of changing from liquid to gas is:",
+          "options": ["Freezing", "Melting", "Evaporation", "Condensation"],
+          "correct": "Evaporation"
+        },
+        {
+          "question": "Atoms are made up of:",
+          "options": ["Protons, neutrons, electrons", "Only protons and electrons", "Only neutrons and electrons", "Only protons and neutrons"],
+          "correct": "Protons, neutrons, electrons"
+        },
+        {
+          "question": "The nucleus of an atom contains:",
+          "options": ["Protons and electrons", "Protons and neutrons", "Neutrons and electrons", "Only protons"],
+          "correct": "Protons and neutrons"
+        },
+        {
+          "question": "An element is:",
+          "options": ["A mixture of substances", "A pure substance made of one type of atom", "A combination of compounds", "A type of mixture"],
+          "correct": "A pure substance made of one type of atom"
+        },
+        {
+          "question": "A compound is:",
+          "options": ["A mixture of elements", "A pure substance made of two or more elements chemically combined", "A type of atom", "A physical blend of substances"],
+          "correct": "A pure substance made of two or more elements chemically combined"
+        },
+        {
+          "question": "A mixture is:",
+          "options": ["A pure substance", "A combination of substances that are not chemically combined", "A type of element", "A type of compound"],
+          "correct": "A combination of substances that are not chemically combined"
+        },
+        {
+          "question": "What is the process of changing from gas to liquid?",
+          "options": ["Evaporation", "Condensation", "Sublimation", "Deposition"],
+          "correct": "Condensation"
+        },
+        {
+          "question": "What is the atomic number of an element?",
+          "options": ["Number of protons", "Number of neutrons", "Number of electrons", "Total number of particles"],
+          "correct": "Number of protons"
+        },
+        {
+          "question": "What is the difference between a compound and a mixture?",
+          "options": ["Compounds are chemically combined, mixtures are physically combined", "Compounds are physically combined, mixtures are chemically combined", "Both are the same", "Compounds have variable composition, mixtures have fixed composition"],
+          "correct": "Compounds are chemically combined, mixtures are physically combined"
+        },
+        {
+          "question": "What is plasma?",
+          "options": ["A state of matter with high energy", "A type of gas", "A type of liquid", "A type of solid"],
+          "correct": "A state of matter with high energy"
+        },
+        {
+          "question": "What is the difference between mass and weight?",
+          "options": ["Mass is the amount of matter, weight is the force of gravity", "Mass is the force of gravity, weight is the amount of matter", "Both are the same", "Mass is measured in newtons, weight in kilograms"],
+          "correct": "Mass is the amount of matter, weight is the force of gravity"
+        }
+      ]
+    },
+    "section_b": {
+      "questions": [
+        {
+          "part": "Motion",
+          "question": "Explain Newton's second law of motion and give an example."
+        },
+        {
+          "part": "Motion",
+          "question": "Describe the difference between speed and velocity."
+        },
+        {
+          "part": "Motion",
+          "question": "What is the law of conservation of energy? Give an example."
+        },
+        {
+          "part": "Motion",
+          "question": "Explain how friction affects motion."
+        },
+        {
+          "part": "Motion",
+          "question": "Define work and state its SI unit."
+        },
+        {
+          "part": "Pressure",
+          "question": "What is atmospheric pressure and how is it measured?"
+        },
+        {
+          "part": "Pressure",
+          "question": "Explain how a hydraulic system works."
+        },
+        {
+          "part": "Pressure",
+          "question": "Explain Bernoulli's principle with an application."
+        },
+        {
+          "part": "Introduction to Matter",
+          "question": "Describe the properties of solids, liquids, and gases."
+        },
+        {
+          "part": "Introduction to Matter",
+          "question": "Answer the following: a) Define matter. b) List the three main states of matter. c) Explain one change of state with an example."
+        }
+      ]
+    }
+  }

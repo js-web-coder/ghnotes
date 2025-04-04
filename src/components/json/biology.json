@@ -1,0 +1,351 @@
+{
+    "title": "Biology",
+    "section_a": {
+      "questions": [
+        {
+          "question": "What is the first step in the scientific method?",
+          "options": ["Hypothesis", "Experiment", "Observation", "Conclusion"],
+          "correct": "Observation"
+        },
+        {
+          "question": "Which of the following is not a characteristic of living organisms?",
+          "options": ["Growth", "Reproduction", "Photosynthesis", "Response to stimuli"],
+          "correct": "Photosynthesis"
+        },
+        {
+          "question": "What is the function of the eyepiece in a microscope?",
+          "options": ["To hold the slide", "To focus the light", "To magnify the image", "To adjust the stage"],
+          "correct": "To magnify the image"
+        },
+        {
+          "question": "Which scientist is known for developing the theory of evolution by natural selection?",
+          "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Robert Hooke"],
+          "correct": "Charles Darwin"
+        },
+        {
+          "question": "What is the basic unit of life?",
+          "options": ["Atom", "Cell", "Molecule", "Organ"],
+          "correct": "Cell"
+        },
+        {
+          "question": "Which of the following is a prokaryotic organism?",
+          "options": ["Amoeba", "Bacteria", "Fungus", "Plant"],
+          "correct": "Bacteria"
+        },
+        {
+          "question": "What does the term \"biodiversity\" refer to?",
+          "options": ["The variety of life in an ecosystem", "The study of biological processes", "The classification of organisms", "The evolution of species"],
+          "correct": "The variety of life in an ecosystem"
+        },
+        {
+          "question": "Which part of the microscope is used to adjust the amount of light?",
+          "options": ["Objective lens", "Diaphragm", "Stage", "Coarse focus"],
+          "correct": "Diaphragm"
+        },
+        {
+          "question": "What is the purpose of a control in an experiment?",
+          "options": ["To test the hypothesis", "To provide a comparison", "To ensure accuracy", "To record data"],
+          "correct": "To provide a comparison"
+        },
+        {
+          "question": "Which of the following is an example of a unicellular organism?",
+          "options": ["Human", "Tree", "Amoeba", "Fish"],
+          "correct": "Amoeba"
+        },
+        {
+          "question": "What is aquaculture?",
+          "options": ["Fishing in the wild", "Farming of aquatic organisms", "Study of fish behavior", "Preservation of fish"],
+          "correct": "Farming of aquatic organisms"
+        },
+        {
+          "question": "Which of the following is a method of fish preservation?",
+          "options": ["Smoking", "Boiling", "Frying", "Grilling"],
+          "correct": "Smoking"
+        },
+        {
+          "question": "What is the primary goal of fish farming?",
+          "options": ["To increase biodiversity", "To provide a sustainable food source", "To study fish behavior", "To conserve endangered species"],
+          "correct": "To provide a sustainable food source"
+        },
+        {
+          "question": "Which factor is most important in maintaining water quality in fish farming?",
+          "options": ["Temperature", "pH level", "Oxygen level", "All of the above"],
+          "correct": "All of the above"
+        },
+        {
+          "question": "What is the process of removing fish from water for processing called?",
+          "options": ["Harvesting", "Catching", "Fishing", "Trapping"],
+          "correct": "Harvesting"
+        },
+        {
+          "question": "Which of the following is a common disease in fish farming?",
+          "options": ["Malaria", "Fin rot", "Tuberculosis", "Influenza"],
+          "correct": "Fin rot"
+        },
+        {
+          "question": "What is the purpose of fish grading in processing?",
+          "options": ["To sort fish by size", "To clean the fish", "To cook the fish", "To package the fish"],
+          "correct": "To sort fish by size"
+        },
+        {
+          "question": "Which conservation method involves protecting fish habitats?",
+          "options": ["Overfishing", "Habitat restoration", "Pollution", "Deforestation"],
+          "correct": "Habitat restoration"
+        },
+        {
+          "question": "What is the term for the practice of catching fish in a way that maintains the population?",
+          "options": ["Sustainable fishing", "Overfishing", "Illegal fishing", "Commercial fishing"],
+          "correct": "Sustainable fishing"
+        },
+        {
+          "question": "Which of the following is a benefit of fish farming?",
+          "options": ["Reduced pressure on wild fish populations", "Increased pollution", "Habitat destruction", "Spread of diseases"],
+          "correct": "Reduced pressure on wild fish populations"
+        },
+        {
+          "question": "What is the function of the cell membrane?",
+          "options": ["To control what enters and leaves the cell", "To produce energy", "To store genetic information", "To synthesize proteins"],
+          "correct": "To control what enters and leaves the cell"
+        },
+        {
+          "question": "Which organelle is known as the \"powerhouse\" of the cell?",
+          "options": ["Nucleus", "Mitochondria", "Chloroplast", "Endoplasmic reticulum"],
+          "correct": "Mitochondria"
+        },
+        {
+          "question": "What is the main difference between plant and animal cells?",
+          "options": ["Presence of a cell wall", "Presence of a nucleus", "Presence of mitochondria", "Presence of ribosomes"],
+          "correct": "Presence of a cell wall"
+        },
+        {
+          "question": "What is the process by which cells divide to form two identical daughter cells?",
+          "options": ["Meiosis", "Mitosis", "Fertilization", "Differentiation"],
+          "correct": "Mitosis"
+        },
+        {
+          "question": "Which of the following is not a type of tissue?",
+          "options": ["Epithelial", "Connective", "Muscular", "Cellular"],
+          "correct": "Cellular"
+        },
+        {
+          "question": "What is the function of ribosomes in a cell?",
+          "options": ["To produce ATP", "To synthesize proteins", "To store water", "To break down waste"],
+          "correct": "To synthesize proteins"
+        },
+        {
+          "question": "Which structure contains the cell’s genetic material?",
+          "options": ["Nucleus", "Cytoplasm", "Cell membrane", "Golgi apparatus"],
+          "correct": "Nucleus"
+        },
+        {
+          "question": "What is the term for the movement of water across a semi-permeable membrane?",
+          "options": ["Diffusion", "Osmosis", "Active transport", "Facilitated diffusion"],
+          "correct": "Osmosis"
+        },
+        {
+          "question": "Which of the following is a characteristic of eukaryotic cells?",
+          "options": ["Lack of a nucleus", "Presence of membrane-bound organelles", "Small size", "Circular DNA"],
+          "correct": "Presence of membrane-bound organelles"
+        },
+        {
+          "question": "What is the role of chloroplasts in plant cells?",
+          "options": ["To store food", "To produce glucose through photosynthesis", "To break down waste", "To transport materials"],
+          "correct": "To produce glucose through photosynthesis"
+        },
+        {
+          "question": "Which of the following is a characteristic of mammals?",
+          "options": ["Cold-blooded", "Lay eggs", "Have fur or hair", "Breathe through gills"],
+          "correct": "Have fur or hair"
+        },
+        {
+          "question": "What is the process by which plants make their own food?",
+          "options": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
+          "correct": "Photosynthesis"
+        },
+        {
+          "question": "Which group of organisms includes bacteria and archaea?",
+          "options": ["Eukaryotes", "Prokaryotes", "Fungi", "Protists"],
+          "correct": "Prokaryotes"
+        },
+        {
+          "question": "What is the term for organisms that can make their own food?",
+          "options": ["Heterotrophs", "Autotrophs", "Decomposers", "Scavengers"],
+          "correct": "Autotrophs"
+        },
+        {
+          "question": "Which of the following is an example of a symbiotic relationship?",
+          "options": ["Predator-prey", "Parasite-host", "Mutualism", "Competition"],
+          "correct": "Mutualism"
+        },
+        {
+          "question": "What is the primary function of the respiratory system in animals?",
+          "options": ["To digest food", "To circulate blood", "To exchange gases", "To produce hormones"],
+          "correct": "To exchange gases"
+        },
+        {
+          "question": "Which of the following is a characteristic of insects?",
+          "options": ["Two pairs of wings", "Three body segments", "Eight legs", "Gills for breathing"],
+          "correct": "Three body segments"
+        },
+        {
+          "question": "What is the term for the process by which organisms change over time?",
+          "options": ["Adaptation", "Evolution", "Mutation", "Selection"],
+          "correct": "Evolution"
+        },
+        {
+          "question": "Which of the following is a type of asexual reproduction?",
+          "options": ["Fertilization", "Budding", "Meiosis", "Pollination"],
+          "correct": "Budding"
+        },
+        {
+          "question": "What is the role of decomposers in an ecosystem?",
+          "options": ["To produce oxygen", "To break down dead organic matter", "To fix nitrogen", "To photosynthesize"],
+          "correct": "To break down dead organic matter"
+        },
+        {
+          "question": "What is an ecosystem?",
+          "options": ["A group of organisms of the same species", "A community of organisms and their environment", "A single organism", "A type of biome"],
+          "correct": "A community of organisms and their environment"
+        },
+        {
+          "question": "Which of the following is an abiotic factor in an ecosystem?",
+          "options": ["Plants", "Animals", "Water", "Bacteria"],
+          "correct": "Water"
+        },
+        {
+          "question": "What is the term for the position an organism occupies in a food chain?",
+          "options": ["Niche", "Habitat", "Trophic level", "Biome"],
+          "correct": "Trophic level"
+        },
+        {
+          "question": "Which of the following is a primary consumer?",
+          "options": ["Lion", "Grass", "Rabbit", "Hawk"],
+          "correct": "Rabbit"
+        },
+        {
+          "question": "What is the process by which nitrogen is converted into a usable form for plants?",
+          "options": ["Photosynthesis", "Respiration", "Nitrogen fixation", "Decomposition"],
+          "correct": "Nitrogen fixation"
+        },
+        {
+          "question": "Which of the following is a greenhouse gas?",
+          "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+          "correct": "Carbon dioxide"
+        },
+        {
+          "question": "What is the term for the maximum number of individuals an environment can support?",
+          "options": ["Population density", "Carrying capacity", "Growth rate", "Limiting factor"],
+          "correct": "Carrying capacity"
+        },
+        {
+          "question": "Which of the following is an example of a renewable resource?",
+          "options": ["Coal", "Oil", "Solar energy", "Natural gas"],
+          "correct": "Solar energy"
+        },
+        {
+          "question": "What is the primary cause of deforestation?",
+          "options": ["Urbanization", "Agriculture", "Logging", "All of the above"],
+          "correct": "All of the above"
+        },
+        {
+          "question": "Which of the following is a consequence of pollution?",
+          "options": ["Increased biodiversity", "Climate change", "Habitat destruction", "All of the above"],
+          "correct": "All of the above"
+        },
+        {
+          "question": "What is a pathogen?",
+          "options": ["A disease-causing organism", "A type of vaccine", "A medical treatment", "A symptom of disease"],
+          "correct": "A disease-causing organism"
+        },
+        {
+          "question": "Which of the following is a vector for disease transmission?",
+          "options": ["Water", "Air", "Mosquito", "Food"],
+          "correct": "Mosquito"
+        },
+        {
+          "question": "What is the term for the body’s natural defense against disease?",
+          "options": ["Immunity", "Infection", "Inflammation", "Allergy"],
+          "correct": "Immunity"
+        },
+        {
+          "question": "Which of the following is a sexually transmitted infection?",
+          "options": ["Influenza", "Tuberculosis", "HIV/AIDS", "Malaria"],
+          "correct": "HIV/AIDS"
+        },
+        {
+          "question": "What is the primary way to prevent the spread of infectious diseases?",
+          "options": ["Vaccination", "Antibiotics", "Surgery", "Chemotherapy"],
+          "correct": "Vaccination"
+        },
+        {
+          "question": "Which of the following is a non-communicable disease?",
+          "options": ["Diabetes", "Cholera", "Measles", "Hepatitis"],
+          "correct": "Diabetes"
+        },
+        {
+          "question": "What is the term for the study of the distribution and determinants of health-related events?",
+          "options": ["Pathology", "Epidemiology", "Microbiology", "Immunology"],
+          "correct": "Epidemiology"
+        },
+        {
+          "question": "Which of the following is a symptom of malaria?",
+          "options": ["Cough", "Fever", "Rash", "Sore throat"],
+          "correct": "Fever"
+        },
+        {
+          "question": "What is the role of antibiotics in treating infections?",
+          "options": ["To kill viruses", "To kill bacteria", "To boost immunity", "To reduce inflammation"],
+          "correct": "To kill bacteria"
+        },
+        {
+          "question": "Which of the following is a method of controlling disease vectors?",
+          "options": ["Vaccination", "Quarantine", "Pesticide use", "All of the above"],
+          "correct": "All of the above"
+        }
+      ]
+    },
+    "section_b": {
+      "questions": [
+        {
+          "part": "Introduction to Biology, the Scientific Method, Organisms and Microscope",
+          "question": "Explain the steps of the scientific method and provide an example of how it can be applied in a biological experiment."
+        },
+        {
+          "part": "Fish Farming, Processing and Conservation",
+          "question": "Discuss the importance of fish farming in providing a sustainable food source. Include at least three benefits and two challenges."
+        },
+        {
+          "part": "Cell Biology",
+          "question": "Describe the structure and function of the cell membrane. How does it contribute to the maintenance of homeostasis in the cell?"
+        },
+        {
+          "part": "Organisms",
+          "question": "Compare and contrast the characteristics of prokaryotic and eukaryotic organisms. Provide examples of each."
+        },
+        {
+          "part": "Ecology",
+          "question": "Explain the concept of a food chain and a food web. How do they differ, and why are food webs more representative of real ecosystems?"
+        },
+        {
+          "part": "Diseases and Infections",
+          "question": "Discuss the role of vectors in the transmission of diseases. Provide examples of two diseases and their respective vectors."
+        },
+        {
+          "part": "Ecology",
+          "question": "a) Define the term \"ecosystem\" and explain its components. b) Describe the flow of energy through an ecosystem, including the roles of producers, consumers, and decomposers. c) Discuss the impact of human activities on ecosystems and suggest ways to mitigate these impacts."
+        },
+        {
+          "part": "Cell Biology",
+          "question": "Explain the process of mitosis and its significance in the growth and repair of organisms."
+        },
+        {
+          "part": "Organisms",
+          "question": "Describe the process of photosynthesis, including the reactants and products. Why is it important for life on Earth?"
+        },
+        {
+          "part": "Diseases and Infections",
+          "question": "Discuss the importance of vaccination in preventing infectious diseases. How do vaccines work, and what are some challenges in vaccine development?"
+        }
+      ]
+    }
+  }

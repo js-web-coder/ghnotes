@@ -1,0 +1,351 @@
+{
+    "title": "Chemistry",
+    "section_a": {
+      "questions": [
+        {
+          "question": "What is chemistry primarily concerned with?",
+          "options": ["The study of living organisms", "The study of matter and its properties", "The study of energy", "The study of space"],
+          "correct": "The study of matter and its properties"
+        },
+        {
+          "question": "Which step in the scientific method involves making a testable prediction?",
+          "options": ["Observation", "Hypothesis", "Experiment", "Conclusion"],
+          "correct": "Hypothesis"
+        },
+        {
+          "question": "What is the smallest unit of an element that retains its properties?",
+          "options": ["Molecule", "Atom", "Ion", "Compound"],
+          "correct": "Atom"
+        },
+        {
+          "question": "Who proposed the atomic theory that all matter is made of indivisible particles?",
+          "options": ["John Dalton", "J.J. Thomson", "Ernest Rutherford", "Niels Bohr"],
+          "correct": "John Dalton"
+        },
+        {
+          "question": "Which subatomic particle carries a negative charge?",
+          "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+          "correct": "Electron"
+        },
+        {
+          "question": "What is the central part of an atom called?",
+          "options": ["Electron cloud", "Nucleus", "Orbital", "Shell"],
+          "correct": "Nucleus"
+        },
+        {
+          "question": "Which of the following is a physical change?",
+          "options": ["Rusting of iron", "Melting of ice", "Burning of wood", "Digestion of food"],
+          "correct": "Melting of ice"
+        },
+        {
+          "question": "What is the atomic number of an element determined by?",
+          "options": ["Number of protons", "Number of neutrons", "Number of electrons", "Total mass"],
+          "correct": "Number of protons"
+        },
+        {
+          "question": "Which scientist discovered the electron?",
+          "options": ["John Dalton", "J.J. Thomson", "Ernest Rutherford", "Dmitri Mendeleev"],
+          "correct": "J.J. Thomson"
+        },
+        {
+          "question": "What is the purpose of a control group in an experiment?",
+          "options": ["To test the hypothesis", "To provide a baseline for comparison", "To increase variables", "To record data"],
+          "correct": "To provide a baseline for comparison"
+        },
+        {
+          "question": "Which of the following is an element?",
+          "options": ["Oxygen", "Water", "Salt", "Sugar"],
+          "correct": "Oxygen"
+        },
+        {
+          "question": "What is the charge of a neutron?",
+          "options": ["Positive", "Negative", "Neutral", "Variable"],
+          "correct": "Neutral"
+        },
+        {
+          "question": "Which model of the atom includes electrons orbiting the nucleus in specific energy levels?",
+          "options": ["Dalton’s model", "Thomson’s model", "Bohr’s model", "Rutherford’s model"],
+          "correct": "Bohr’s model"
+        },
+        {
+          "question": "What is the term for a substance made of two or more elements chemically combined?",
+          "options": ["Mixture", "Compound", "Element", "Alloy"],
+          "correct": "Compound"
+        },
+        {
+          "question": "Which of the following is a chemical property?",
+          "options": ["Density", "Boiling point", "Flammability", "Color"],
+          "correct": "Flammability"
+        },
+        {
+          "question": "What is the mass number of an atom?",
+          "options": ["Sum of protons and neutrons", "Number of protons only", "Number of electrons only", "Number of neutrons only"],
+          "correct": "Sum of protons and neutrons"
+        },
+        {
+          "question": "Which subatomic particle determines the identity of an element?",
+          "options": ["Proton", "Neutron", "Electron", "Ion"],
+          "correct": "Proton"
+        },
+        {
+          "question": "What is an isotope?",
+          "options": ["An atom with a different number of electrons", "An atom with a different number of neutrons", "An atom with a different number of protons", "A charged atom"],
+          "correct": "An atom with a different number of neutrons"
+        },
+        {
+          "question": "Which of the following is a mixture?",
+          "options": ["Sodium chloride", "Carbon dioxide", "Air", "Water"],
+          "correct": "Air"
+        },
+        {
+          "question": "What is the primary source of energy for Earth’s climate system?",
+          "options": ["Earth’s core", "The Sun", "Chemical reactions", "Nuclear fusion in atoms"],
+          "correct": "The Sun"
+        },
+        {
+          "question": "What is a mole in chemistry?",
+          "options": ["A small burrowing animal", "A unit of amount of substance", "A type of chemical bond", "A measure of volume"],
+          "correct": "A unit of amount of substance"
+        },
+        {
+          "question": "How many particles are in one mole of a substance?",
+          "options": ["$$6.02 \\times 10^{22}$$", "$$6.02 \\times 10^{23}$$", "$$6.02 \\times 10^{24}$$", "$$6.02 \\times 10^{25}$$"],
+          "correct": "$$6.02 \\times 10^{23}$$"
+        },
+        {
+          "question": "What is Avogadro’s number?",
+          "options": ["The number of protons in an atom", "The number of particles in one mole", "The mass of one mole of a substance", "The volume of one mole of gas"],
+          "correct": "The number of particles in one mole"
+        },
+        {
+          "question": "What is the molar mass of an element?",
+          "options": ["Its atomic number", "Its mass in grams per mole", "Its number of neutrons", "Its number of electrons"],
+          "correct": "Its mass in grams per mole"
+        },
+        {
+          "question": "What is the molar mass of water ($$H_2O$$)? (H = 1 g/mol, O = 16 g/mol)",
+          "options": ["16 g/mol", "18 g/mol", "17 g/mol", "20 g/mol"],
+          "correct": "18 g/mol"
+        },
+        {
+          "question": "How many moles are in 12 g of carbon (C = 12 g/mol)?",
+          "options": ["0.5 moles", "1 mole", "2 moles", "12 moles"],
+          "correct": "1 mole"
+        },
+        {
+          "question": "What is the formula to calculate the number of moles?",
+          "options": ["Mass $$\\times$$ Molar mass", "Mass $$\\div$$ Molar mass", "Molar mass $$\\div$$ Mass", "Mass $$\\times$$ Volume"],
+          "correct": "Mass $$\\div$$ Molar mass"
+        },
+        {
+          "question": "What is the mass of 2 moles of oxygen gas ($$O_2$$ = 32 g/mol)?",
+          "options": ["16 g", "32 g", "64 g", "128 g"],
+          "correct": "64 g"
+        },
+        {
+          "question": "Which unit is used to express molar mass?",
+          "options": ["Grams", "Grams per mole", "Moles per gram", "Liters"],
+          "correct": "Grams per mole"
+        },
+        {
+          "question": "How many molecules are in 0.5 moles of $$CO_2$$?",
+          "options": ["$$3.01 \\times 10^{22}$$", "$$3.01 \\times 10^{23}$$", "$$6.02 \\times 10^{23}$$", "$$1.20 \\times 10^{24}$$"],
+          "correct": "$$3.01 \\times 10^{23}$$"
+        },
+        {
+          "question": "What is the volume of 1 mole of an ideal gas at standard temperature and pressure (STP)?",
+          "options": ["11.2 L", "22.4 L", "33.6 L", "44.8 L"],
+          "correct": "22.4 L"
+        },
+        {
+          "question": "How many moles are in 44 g of $$CO_2$$? (C = 12 g/mol, O = 16 g/mol)",
+          "options": ["0.5 moles", "1 mole", "2 moles", "4 moles"],
+          "correct": "1 mole"
+        },
+        {
+          "question": "What is the molar mass of sodium chloride ($$NaCl$$)? (Na = 23 g/mol, Cl = 35.5 g/mol)",
+          "options": ["48.5 g/mol", "58.5 g/mol", "68.5 g/mol", "78.5 g/mol"],
+          "correct": "58.5 g/mol"
+        },
+        {
+          "question": "How many grams are in 3 moles of sulfur (S = 32 g/mol)?",
+          "options": ["32 g", "64 g", "96 g", "128 g"],
+          "correct": "96 g"
+        },
+        {
+          "question": "What does the mole concept help chemists do?",
+          "options": ["Measure temperature", "Quantify amounts of substances", "Determine boiling points", "Identify colors of compounds"],
+          "correct": "Quantify amounts of substances"
+        },
+        {
+          "question": "How many moles are in 18 g of water ($$H_2O$$ = 18 g/mol)?",
+          "options": ["0.5 moles", "1 mole", "2 moles", "3 moles"],
+          "correct": "1 mole"
+        },
+        {
+          "question": "What is the number of atoms in 1 mole of helium (He)?",
+          "options": ["$$3.01 \\times 10^{23}$$", "$$6.02 \\times 10^{23}$$", "$$12.04 \\times 10^{23}$$", "$$1.20 \\times 10^{24}$$"],
+          "correct": "$$6.02 \\times 10^{23}$$"
+        },
+        {
+          "question": "What is the mass of 0.25 moles of methane ($$CH_4$$)? (C = 12 g/mol, H = 1 g/mol)",
+          "options": ["2 g", "4 g", "8 g", "16 g"],
+          "correct": "4 g"
+        },
+        {
+          "question": "Which of the following equals one mole of a gas at STP?",
+          "options": ["11.2 L", "22.4 L", "44.8 L", "66.2 L"],
+          "correct": "22.4 L"
+        },
+        {
+          "question": "How many moles are in 98 g of sulfuric acid ($$H_2SO_4$$)? (H = 1 g/mol, S = 32 g/mol, O = 16 g/mol)",
+          "options": ["0.5 moles", "1 mole", "2 moles", "3 moles"],
+          "correct": "1 mole"
+        },
+        {
+          "question": "What does a chemical formula represent?",
+          "options": ["The mass of a compound", "The composition of a compound", "The volume of a substance", "The temperature of a reaction"],
+          "correct": "The composition of a compound"
+        },
+        {
+          "question": "What is the mole ratio of hydrogen to oxygen in water ($$H_2O$$)?",
+          "options": ["2:1", "1:2", "1:1", "2:2"],
+          "correct": "2:1"
+        },
+        {
+          "question": "In the reaction $$2H_2 + O_2 \\rightarrow 2H_2O$$, what is the mole ratio of $$H_2$$ to $$H_2O$$?",
+          "options": ["1:1", "2:2", "2:1", "1:2"],
+          "correct": "2:2"
+        },
+        {
+          "question": "What type of reaction is represented by $$AB \\rightarrow A + B$$?",
+          "options": ["Synthesis", "Decomposition", "Single replacement", "Double replacement"],
+          "correct": "Decomposition"
+        },
+        {
+          "question": "What is the chemical formula for carbon dioxide?",
+          "options": ["CO", "$$CO_2$$", "$$C_2O$$", "$$C_2O_2$$"],
+          "correct": "$$CO_2$$"
+        },
+        {
+          "question": "How many moles of oxygen are needed to react with 4 moles of hydrogen in $$2H_2 + O_2 \\rightarrow 2H_2O$$?",
+          "options": ["1 mole", "2 moles", "4 moles", "8 moles"],
+          "correct": "2 moles"
+        },
+        {
+          "question": "What is the coefficient of $$O_2$$ in the balanced equation: $$2C_2H_5OH + _O_2 \\rightarrow 4CO_2 + 6H_2O$$?",
+          "options": ["4", "5", "6", "7"],
+          "correct": "6"
+        },
+        {
+          "question": "What does a balanced chemical equation obey?",
+          "options": ["Law of Gravity", "Law of Conservation of Mass", "Law of Motion", "Law of Thermodynamics"],
+          "correct": "Law of Conservation of Mass"
+        },
+        {
+          "question": "What is the formula for sodium chloride?",
+          "options": ["$$NaCl$$", "$$Na_2Cl$$", "$$NaCl_2$$", "$$Na_2Cl_2$$"],
+          "correct": "$$NaCl$$"
+        },
+        {
+          "question": "In the reaction $$N_2 + 3H_2 \\rightarrow 2NH_3$$, how many moles of $$H_2$$ react with 1 mole of $$N_2$$?",
+          "options": ["1 mole", "2 moles", "3 moles", "4 moles"],
+          "correct": "3 moles"
+        },
+        {
+          "question": "What type of reaction is $$2Na + Cl_2 \\rightarrow 2NaCl$$?",
+          "options": ["Synthesis", "Decomposition", "Single replacement", "Combustion"],
+          "correct": "Synthesis"
+        },
+        {
+          "question": "What is the mole ratio of $$CO_2$$ to $$H_2O$$ in the reaction $$CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O$$?",
+          "options": ["1:1", "1:2", "2:1", "2:2"],
+          "correct": "1:2"
+        },
+        {
+          "question": "What is the chemical formula for sulfuric acid?",
+          "options": ["$$HSO_4$$", "$$H_2SO_4$$", "$$H_2S$$", "$$HSO_3$$"],
+          "correct": "$$H_2SO_4$$"
+        },
+        {
+          "question": "How many moles of $$NaCl$$ are produced from 2 moles of Na in $$2Na + Cl_2 \\rightarrow 2NaCl$$?",
+          "options": ["1 mole", "2 moles", "3 moles", "4 moles"],
+          "correct": "2 moles"
+        },
+        {
+          "question": "What is the coefficient of $$H_2O$$ in the balanced equation: $$C_3H_8 + 5O_2 \\rightarrow 3CO_2 + _H_2O$$?",
+          "options": ["2", "3", "4", "5"],
+          "correct": "4"
+        },
+        {
+          "question": "What does the subscript in a chemical formula indicate?",
+          "options": ["The charge of the atom", "The number of atoms of an element", "The mass of the compound", "The number of moles"],
+          "correct": "The number of atoms of an element"
+        },
+        {
+          "question": "In the reaction $$2Al + 3Cl_2 \\rightarrow 2AlCl_3$$, how many moles of $$Cl_2$$ are needed for 4 moles of Al?",
+          "options": ["3 moles", "4 moles", "6 moles", "8 moles"],
+          "correct": "6 moles"
+        },
+        {
+          "question": "What type of reaction is $$Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu$$?",
+          "options": ["Synthesis", "Decomposition", "Single replacement", "Double replacement"],
+          "correct": "Single replacement"
+        },
+        {
+          "question": "What is the mole ratio of Al to $$AlCl_3$$ in $$2Al + 3Cl_2 \\rightarrow 2AlCl_3$$?",
+          "options": ["1:1", "2:2", "2:3", "3:2"],
+          "correct": "2:2"
+        },
+        {
+          "question": "What is the chemical formula for methane?",
+          "options": ["$$CH_2$$", "$$CH_4$$", "$$C_2H_4$$", "$$C_2H_6$$"],
+          "correct": "$$CH_4$$"
+        }
+      ]
+    },
+    "section_b": {
+      "questions": [
+        {
+          "part": "Introduction to Chemistry, Scientific Method and Atom",
+          "question": "Explain the steps of the scientific method and provide an example of its application in a chemistry experiment."
+        },
+        {
+          "part": "The Concept of the Moles",
+          "question": "Define the mole and explain its importance in chemistry. Include Avogadro’s number in your explanation."
+        },
+        {
+          "part": "Mole Ratios, Chemical Formulae, and Chemical Equations",
+          "question": "Explain what a mole ratio is and how it is derived from a balanced chemical equation. Use the reaction $$2H_2 + O_2 \\rightarrow 2H_2O$$ as an example."
+        },
+        {
+          "part": "Introduction to Chemistry, Scientific Method and Atom",
+          "question": "Describe the structure of an atom and the roles of its subatomic particles."
+        },
+        {
+          "part": "The Concept of the Moles",
+          "question": "Calculate the number of moles in 36 g of water ($$H_2O$$). Explain your steps. (H = 1 g/mol, O = 16 g/mol)"
+        },
+        {
+          "part": "Mole Ratios, Chemical Formulae, and Chemical Equations",
+          "question": "Balance the equation $$CH_4 + O_2 \\rightarrow CO_2 + H_2O$$ and explain the significance of balancing it."
+        },
+        {
+          "part": "Mole Ratios, Chemical Formulae, and Chemical Equations",
+          "question": "a) Define a chemical equation and explain its components. b) Explain how to use mole ratios to calculate the amount of product formed in a reaction, using $$N_2 + 3H_2 \\rightarrow 2NH_3$$. c) Calculate how many moles of $$NH_3$$ are produced from 6 moles of $$H_2$$ in the same reaction."
+        },
+        {
+          "part": "The Concept of the Moles",
+          "question": "Discuss how the mole concept relates mass, volume, and number of particles, using $$CO_2$$ as an example."
+        },
+        {
+          "part": "Introduction to Chemistry, Scientific Method and Atom",
+          "question": "Explain the difference between an element and a compound, with examples."
+        },
+        {
+          "part": "Mole Ratios, Chemical Formulae, and Chemical Equations",
+          "question": "Write the balanced equation for the combustion of propane ($$C_3H_8$$) and calculate how many moles of $$CO_2$$ are produced from 5 moles of $$C_3H_8$$."
+        }
+      ]
+    }
+  }

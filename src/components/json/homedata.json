@@ -1,0 +1,37 @@
+{
+    "homedata": [
+        {
+            "icon": "bi-book-fill",
+            "title": "Subjects",
+            "description": "\"GH Notes Available\" is an educational web platform designed to provide interactive practice exams for students. Select your desired subject to get started with your exams",
+            "link": "subjects",
+            "colors": {
+                "button": "#3498db",
+                "box": "#2c3e50",
+                "text": "#ffe0f0"
+            }
+        },
+        {
+            "icon": "bi-headset",
+            "title": "Contact",
+            "description": "\"GH Notes Available\" is always available for contacts. You send what you have to us to improve and we will follow and work on it. We hope you have a good time with our app and would love to share, if not so happy, just give us the reason and we will work on it.",
+            "link": "contact",
+            "colors": {
+                "button": "#2c3e50",
+                "box": "#3498db",
+                "text": "#ffe0f0"
+            }
+        },
+        {
+            "icon": "bi-info-circle-fill",
+            "title": "About",
+            "description": "\"GH Notes Available\" is a thoughtfully designed educational tool that combines simplicity with powerful functionality. Its parameter-driven navigation, separate data storage, interactive verification, and modern UI/UX make it an effective resource for mathematics students...",
+            "link": "info",
+            "colors": {
+                "button": "#1e9e00",
+                "box": "#823bda",
+                "text": "#ffe0f0"
+            }
+        }
+    ]
+}

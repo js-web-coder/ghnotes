@@ -1,0 +1,351 @@
+{
+    "title": "Social Studies",
+    "section_a": {
+      "questions": [
+        {
+          "question": "What is the largest desert in Africa?",
+          "options": ["Kalahari Desert", "Sahara Desert", "Namib Desert", "Gobi Desert"],
+          "correct": "Sahara Desert"
+        },
+        {
+          "question": "Which river is the longest in Africa?",
+          "options": ["Nile River", "Congo River", "Niger River", "Zambezi River"],
+          "correct": "Nile River"
+        },
+        {
+          "question": "Which African country was never colonized?",
+          "options": ["Nigeria", "Ethiopia", "Kenya", "South Africa"],
+          "correct": "Ethiopia"
+        },
+        {
+          "question": "What is the highest mountain in Africa?",
+          "options": ["Mount Kenya", "Mount Kilimanjaro", "Mount Elgon", "Atlas Mountains"],
+          "correct": "Mount Kilimanjaro"
+        },
+        {
+          "question": "Which ancient African kingdom was known for its gold trade?",
+          "options": ["Mali Empire", "Zulu Kingdom", "Kingdom of Kongo", "Ashanti Empire"],
+          "correct": "Mali Empire"
+        },
+        {
+          "question": "What is the largest lake in Africa by surface area?",
+          "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+          "correct": "Lake Victoria"
+        },
+        {
+          "question": "Which European country colonized most of West Africa?",
+          "options": ["Britain", "France", "Portugal", "Germany"],
+          "correct": "France"
+        },
+        {
+          "question": "What is the primary purpose of a constitution?",
+          "options": ["To collect taxes", "To establish the framework of government", "To regulate trade", "To enforce laws"],
+          "correct": "To establish the framework of government"
+        },
+        {
+          "question": "Which of the following is a civic duty?",
+          "options": ["Traveling abroad", "Voting in elections", "Starting a business", "Attending school"],
+          "correct": "Voting in elections"
+        },
+        {
+          "question": "What is democracy?",
+          "options": ["Rule by a single leader", "Rule by the people", "Rule by the military", "Rule by a king"],
+          "correct": "Rule by the people"
+        },
+        {
+          "question": "What does the term \"rule of law\" mean?",
+          "options": ["Laws only apply to citizens", "Everyone is subject to the law", "Laws change daily", "Only leaders make laws"],
+          "correct": "Everyone is subject to the law"
+        },
+        {
+          "question": "What is an example of indigenous knowledge in Africa?",
+          "options": ["Use of smartphones", "Traditional herbal medicine", "Modern factory farming", "Internet banking"],
+          "correct": "Traditional herbal medicine"
+        },
+        {
+          "question": "Which African group is known for its oral storytelling traditions?",
+          "options": ["Maasai", "Griots of West Africa", "Berbers", "San"],
+          "correct": "Griots of West Africa"
+        },
+        {
+          "question": "What is a key feature of indigenous knowledge systems?",
+          "options": ["Reliance on written records", "Passed down through generations", "Use of advanced technology", "Focus on individualism"],
+          "correct": "Passed down through generations"
+        },
+        {
+          "question": "What is ethics?",
+          "options": ["A type of government", "Principles of right and wrong", "Economic policies", "Religious rituals"],
+          "correct": "Principles of right and wrong"
+        },
+        {
+          "question": "Which human value promotes peaceful coexistence?",
+          "options": ["Greed", "Tolerance", "Arrogance", "Dishonesty"],
+          "correct": "Tolerance"
+        },
+        {
+          "question": "What is an example of an ethical dilemma?",
+          "options": ["Choosing a favorite food", "Deciding whether to lie to protect someone", "Picking a school subject", "Buying a new phone"],
+          "correct": "Deciding whether to lie to protect someone"
+        },
+        {
+          "question": "Which ancient African civilization built the pyramids?",
+          "options": ["Egypt", "Ghana", "Songhai", "Axum"],
+          "correct": "Egypt"
+        },
+        {
+          "question": "What was a major achievement of the Kingdom of Aksum?",
+          "options": ["Invention of paper", "Development of coinage", "Building skyscrapers", "Space exploration"],
+          "correct": "Development of coinage"
+        },
+        {
+          "question": "Which African civilization was known for its university in Timbuktu?",
+          "options": ["Zulu", "Mali", "Kush", "Benin"],
+          "correct": "Mali"
+        },
+        {
+          "question": "What material was commonly used in Benin art?",
+          "options": ["Plastic", "Bronze", "Glass", "Paper"],
+          "correct": "Bronze"
+        },
+        {
+          "question": "Which revolution led to the independence of the United States?",
+          "options": ["American Revolution", "French Revolution", "Industrial Revolution", "Russian Revolution"],
+          "correct": "American Revolution"
+        },
+        {
+          "question": "What was a key outcome of the Industrial Revolution?",
+          "options": ["Increased farming", "Mass production", "End of trade", "Return to monarchy"],
+          "correct": "Mass production"
+        },
+        {
+          "question": "Which revolution inspired many African independence movements?",
+          "options": ["Russian Revolution", "French Revolution", "Haitian Revolution", "Agricultural Revolution"],
+          "correct": "Haitian Revolution"
+        },
+        {
+          "question": "What was the main focus of the Agricultural Revolution?",
+          "options": ["Improved farming techniques", "Urban development", "Technological warfare", "Space exploration"],
+          "correct": "Improved farming techniques"
+        },
+        {
+          "question": "What is the primary economic activity in many African countries?",
+          "options": ["Manufacturing", "Agriculture", "Tourism", "Technology"],
+          "correct": "Agriculture"
+        },
+        {
+          "question": "Which African country is a major producer of oil?",
+          "options": ["Nigeria", "Kenya", "Ghana", "Morocco"],
+          "correct": "Nigeria"
+        },
+        {
+          "question": "What is a common economic challenge in Africa?",
+          "options": ["Too many resources", "Poverty", "Overpopulation of cities", "Excess technology"],
+          "correct": "Poverty"
+        },
+        {
+          "question": "Which mineral is South Africa famous for mining?",
+          "options": ["Gold", "Copper", "Iron", "Silver"],
+          "correct": "Gold"
+        },
+        {
+          "question": "What is an entrepreneur?",
+          "options": ["A government official", "A person who starts a business", "A factory worker", "A teacher"],
+          "correct": "A person who starts a business"
+        },
+        {
+          "question": "What is a benefit of a positive workplace culture?",
+          "options": ["Increased conflict", "Higher productivity", "Lower morale", "Reduced teamwork"],
+          "correct": "Higher productivity"
+        },
+        {
+          "question": "Which skill is essential for an entrepreneur?",
+          "options": ["Cooking", "Risk-taking", "Singing", "Painting"],
+          "correct": "Risk-taking"
+        },
+        {
+          "question": "What does productivity measure?",
+          "options": ["Time spent at work", "Efficiency of output", "Number of employees", "Office size"],
+          "correct": "Efficiency of output"
+        },
+        {
+          "question": "Which consumer right ensures fair treatment in transactions?",
+          "options": ["Right to safety", "Right to choose", "Right to information", "Right to be heard"],
+          "correct": "Right to choose"
+        },
+        {
+          "question": "What is a consumer responsibility?",
+          "options": ["Ignoring product labels", "Reporting faulty goods", "Avoiding taxes", "Wasting resources"],
+          "correct": "Reporting faulty goods"
+        },
+        {
+          "question": "Which organization protects consumer rights in many African countries?",
+          "options": ["United Nations", "Consumer Protection Agency", "World Bank", "African Union"],
+          "correct": "Consumer Protection Agency"
+        },
+        {
+          "question": "What does the right to redress mean for consumers?",
+          "options": ["Right to free products", "Right to compensation for faulty goods", "Right to ignore laws", "Right to unlimited refunds"],
+          "correct": "Right to compensation for faulty goods"
+        },
+        {
+          "question": "Which African region is known for its savanna biome?",
+          "options": ["East Africa", "North Africa", "West Africa", "Central Africa"],
+          "correct": "East Africa"
+        },
+        {
+          "question": "What is a key civic ideal in modern societies?",
+          "options": ["Absolute monarchy", "Equality", "Dictatorship", "Isolation"],
+          "correct": "Equality"
+        },
+        {
+          "question": "How did indigenous Africans traditionally navigate?",
+          "options": ["GPS", "Star constellations", "Road maps", "Compasses"],
+          "correct": "Star constellations"
+        },
+        {
+          "question": "Which ethical principle emphasizes truthfulness?",
+          "options": ["Greed", "Honesty", "Jealousy", "Deception"],
+          "correct": "Honesty"
+        },
+        {
+          "question": "What was a major trade item of the Ghana Empire?",
+          "options": ["Gold", "Iron", "Cotton", "Spices"],
+          "correct": "Gold"
+        },
+        {
+          "question": "Which revolution introduced steam power?",
+          "options": ["Industrial Revolution", "French Revolution", "American Revolution", "Scientific Revolution"],
+          "correct": "Industrial Revolution"
+        },
+        {
+          "question": "What is a major export of Kenya?",
+          "options": ["Oil", "Tea", "Diamonds", "Copper"],
+          "correct": "Tea"
+        },
+        {
+          "question": "What motivates entrepreneurs?",
+          "options": ["Fear of failure", "Innovation and profit", "Following orders", "Avoiding work"],
+          "correct": "Innovation and profit"
+        },
+        {
+          "question": "Which consumer right ensures product safety?",
+          "options": ["Right to safety", "Right to choose", "Right to education", "Right to privacy"],
+          "correct": "Right to safety"
+        },
+        {
+          "question": "Which African country has the largest population?",
+          "options": ["Nigeria", "Kenya", "South Africa", "Egypt"],
+          "correct": "Nigeria"
+        },
+        {
+          "question": "What is a civic practice in democratic societies?",
+          "options": ["Ignoring laws", "Participating in elections", "Avoiding taxes", "Bribing officials"],
+          "correct": "Participating in elections"
+        },
+        {
+          "question": "What is an example of indigenous technology?",
+          "options": ["Computers", "Iron smelting", "Electric cars", "Satellites"],
+          "correct": "Iron smelting"
+        },
+        {
+          "question": "Which human value supports fairness?",
+          "options": ["Bias", "Justice", "Selfishness", "Dishonesty"],
+          "correct": "Justice"
+        },
+        {
+          "question": "Which African civilization traded with India and Arabia?",
+          "options": ["Swahili Coast", "Mali", "Ghana", "Songhai"],
+          "correct": "Swahili Coast"
+        },
+        {
+          "question": "Which revolution ended feudalism in France?",
+          "options": ["French Revolution", "Industrial Revolution", "American Revolution", "Haitian Revolution"],
+          "correct": "French Revolution"
+        },
+        {
+          "question": "What is a key economic activity in North Africa?",
+          "options": ["Fishing", "Oil production", "Timber", "Tourism"],
+          "correct": "Oil production"
+        },
+        {
+          "question": "What improves workplace productivity?",
+          "options": ["Poor communication", "Teamwork", "Lack of goals", "Low morale"],
+          "correct": "Teamwork"
+        },
+        {
+          "question": "What is a consumer protection law designed to do?",
+          "options": ["Increase prices", "Prevent fraud", "Limit choices", "Reduce quality"],
+          "correct": "Prevent fraud"
+        },
+        {
+          "question": "Which African region is prone to droughts?",
+          "options": ["Sahel", "Congo Basin", "Nile Valley", "Southern Africa"],
+          "correct": "Sahel"
+        },
+        {
+          "question": "What is a civic ideal that promotes freedom?",
+          "options": ["Censorship", "Liberty", "Oppression", "Control"],
+          "correct": "Liberty"
+        },
+        {
+          "question": "Which indigenous practice helps preserve biodiversity?",
+          "options": ["Deforestation", "Crop rotation", "Overfishing", "Urbanization"],
+          "correct": "Crop rotation"
+        },
+        {
+          "question": "What was a key feature of Egyptian civilization?",
+          "options": ["Hieroglyphic writing", "Nomadic lifestyle", "Lack of trade", "No religion"],
+          "correct": "Hieroglyphic writing"
+        },
+        {
+          "question": "Which revolution influenced modern socialism?",
+          "options": ["Russian Revolution", "French Revolution", "Industrial Revolution", "American Revolution"],
+          "correct": "Russian Revolution"
+        }
+      ]
+    },
+    "section_b": {
+      "questions": [
+        {
+          "part": "The Geographical and Historical Sketch of Africa",
+          "question": "Describe the geographical diversity of Africa and explain how it has influenced its historical development."
+        },
+        {
+          "part": "Civic Ideals and Practices",
+          "question": "Discuss the importance of civic participation in a democracy and provide two examples of civic duties."
+        },
+        {
+          "part": "Indigenous Knowledge Systems",
+          "question": "Explain how indigenous knowledge systems contribute to sustainable living in Africa. Provide one example."
+        },
+        {
+          "part": "Ethics and Human Values",
+          "question": "Discuss the role of ethics in shaping human behavior and give an example of an ethical decision."
+        },
+        {
+          "part": "African Civilization",
+          "question": "Describe the contributions of the Mali Empire to African civilization and global trade."
+        },
+        {
+          "part": "Revolutions that Changed the World",
+          "question": "Explain how the Industrial Revolution impacted society and its relevance to Africa today."
+        },
+        {
+          "part": "Economic Activities in Africa",
+          "question": "a) Define economic activities and list three examples common in Africa. b) Explain how agriculture supports African economies. c) Discuss one economic challenge in Africa and suggest a solution."
+        },
+        {
+          "part": "Entrepreneurship, Workplace Culture, and Productivity",
+          "question": "Discuss how entrepreneurship drives economic growth in Africa and mention one challenge entrepreneurs face."
+        },
+        {
+          "part": "Consumer Rights, Protection, and Responsibilities",
+          "question": "Explain the importance of consumer rights and provide an example of how they protect individuals."
+        },
+        {
+          "part": "Revolutions that Changed the World",
+          "question": "Analyze the impact of the French Revolution on modern governance and its influence on African independence movements."
+        }
+      ]
+    }
+  }

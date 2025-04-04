@@ -1,0 +1,351 @@
+{
+    "title": "Computer Science",
+    "section_a": {
+      "questions": [
+        {
+          "question": "What is the binary representation of the decimal number 5?",
+          "options": ["101", "110", "111", "100"],
+          "correct": "101"
+        },
+        {
+          "question": "Which number system has a base of 16?",
+          "options": ["Binary", "Octal", "Hexadecimal", "Decimal"],
+          "correct": "Hexadecimal"
+        },
+        {
+          "question": "What does ASCII represent in computers?",
+          "options": ["A type of memory", "A character encoding standard", "A networking protocol", "A hardware component"],
+          "correct": "A character encoding standard"
+        },
+        {
+          "question": "Which component executes program instructions?",
+          "options": ["RAM", "CPU", "Hard drive", "Monitor"],
+          "correct": "CPU"
+        },
+        {
+          "question": "What does the ALU do in a CPU?",
+          "options": ["Stores data", "Performs arithmetic and logical operations", "Manages memory", "Controls input devices"],
+          "correct": "Performs arithmetic and logical operations"
+        },
+        {
+          "question": "Which memory type loses data when power is off?",
+          "options": ["ROM", "RAM", "Hard disk", "Flash drive"],
+          "correct": "RAM"
+        },
+        {
+          "question": "What is the role of the control unit in a CPU?",
+          "options": ["Perform calculations", "Direct processor operations", "Store temporary data", "Manage power"],
+          "correct": "Direct processor operations"
+        },
+        {
+          "question": "How many bits make up a byte?",
+          "options": ["4", "8", "16", "32"],
+          "correct": "8"
+        },
+        {
+          "question": "What is the hexadecimal value of binary 1111?",
+          "options": ["A", "F", "10", "E"],
+          "correct": "F"
+        },
+        {
+          "question": "Which is an example of an output device?",
+          "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+          "correct": "Monitor"
+        },
+        {
+          "question": "What does \"bit\" stand for?",
+          "options": ["Binary Unit", "Binary Digit", "Basic Input Type", "Byte Integration"],
+          "correct": "Binary Digit"
+        },
+        {
+          "question": "Where is the operating system typically stored?",
+          "options": ["RAM", "CPU", "Hard drive", "ROM"],
+          "correct": "Hard drive"
+        },
+        {
+          "question": "Which is an example of system software?",
+          "options": ["Web browser", "Operating system", "Video game", "Spreadsheet"],
+          "correct": "Operating system"
+        },
+        {
+          "question": "What is the primary role of an operating system?",
+          "options": ["Run applications", "Manage hardware resources", "Perform calculations", "Store data"],
+          "correct": "Manage hardware resources"
+        },
+        {
+          "question": "Which component is known as the \"brain\" of the computer?",
+          "options": ["RAM", "CPU", "Hard drive", "Motherboard"],
+          "correct": "CPU"
+        },
+        {
+          "question": "What type of software is a word processor?",
+          "options": ["System software", "Application software", "Utility software", "Firmware"],
+          "correct": "Application software"
+        },
+        {
+          "question": "Which is a peripheral device?",
+          "options": ["CPU", "Printer", "RAM", "Hard drive"],
+          "correct": "Printer"
+        },
+        {
+          "question": "What does RAM stand for?",
+          "options": ["Read Access Memory", "Random Access Memory", "Readily Available Memory", "Rapid Access Memory"],
+          "correct": "Random Access Memory"
+        },
+        {
+          "question": "Which device uses magnetic storage?",
+          "options": ["SSD", "Hard disk drive", "USB flash drive", "CD-ROM"],
+          "correct": "Hard disk drive"
+        },
+        {
+          "question": "What connects all hardware components in a computer?",
+          "options": ["Power supply", "Motherboard", "CPU", "RAM"],
+          "correct": "Motherboard"
+        },
+        {
+          "question": "Which software manages files and folders?",
+          "options": ["Word processor", "Operating system", "Web browser", "Spreadsheet"],
+          "correct": "Operating system"
+        },
+        {
+          "question": "What is firmware?",
+          "options": ["Temporary software", "Software embedded in hardware", "Application software", "Utility software"],
+          "correct": "Software embedded in hardware"
+        },
+        {
+          "question": "Which is a type of secondary storage?",
+          "options": ["RAM", "Hard drive", "Cache", "Registers"],
+          "correct": "Hard drive"
+        },
+        {
+          "question": "What does GUI mean?",
+          "options": ["General User Interface", "Graphical User Interface", "Guided User Interaction", "Global User Integration"],
+          "correct": "Graphical User Interface"
+        },
+        {
+          "question": "What does IP stand for?",
+          "options": ["Internet Provider", "Internal Protocol", "Internet Protocol", "Internal Provider"],
+          "correct": "Internet Protocol"
+        },
+        {
+          "question": "Which device connects computers in a local network?",
+          "options": ["Modem", "Switch", "Router", "Firewall"],
+          "correct": "Switch"
+        },
+        {
+          "question": "What does a router do?",
+          "options": ["Connects devices in a LAN", "Directs data between networks", "Provides wireless access", "Stores data"],
+          "correct": "Directs data between networks"
+        },
+        {
+          "question": "Which protocol is used for email?",
+          "options": ["HTTP", "SMTP", "FTP", "TCP"],
+          "correct": "SMTP"
+        },
+        {
+          "question": "What does LAN mean?",
+          "options": ["Local Access Network", "Local Area Network", "Long Area Network", "Linked Access Network"],
+          "correct": "Local Area Network"
+        },
+        {
+          "question": "Which is a private IP address?",
+          "options": ["8.8.8.8", "192.168.1.1", "172.16.0.1", "10.0.0.1"],
+          "correct": "192.168.1.1"
+        },
+        {
+          "question": "What is the main function of a firewall?",
+          "options": ["Speed up internet", "Protect against unauthorized access", "Connect to Wi-Fi", "Store files"],
+          "correct": "Protect against unauthorized access"
+        },
+        {
+          "question": "Which OSI layer handles data transmission?",
+          "options": ["Application", "Physical", "Network", "Transport"],
+          "correct": "Physical"
+        },
+        {
+          "question": "What does DNS stand for?",
+          "options": ["Domain Network System", "Domain Name System", "Digital Network Service", "Data Name Server"],
+          "correct": "Domain Name System"
+        },
+        {
+          "question": "Which is a wireless networking standard?",
+          "options": ["Ethernet", "Wi-Fi", "DSL", "Fiber optic"],
+          "correct": "Wi-Fi"
+        },
+        {
+          "question": "What is bandwidth?",
+          "options": ["Number of devices connected", "Data transfer rate", "Type of cable used", "Distance between devices"],
+          "correct": "Data transfer rate"
+        },
+        {
+          "question": "Which protocol ensures secure web browsing?",
+          "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+          "correct": "HTTPS"
+        },
+        {
+          "question": "What is an algorithm?",
+          "options": ["A programming language", "A step-by-step procedure to solve a problem", "A type of hardware", "A web tool"],
+          "correct": "A step-by-step procedure to solve a problem"
+        },
+        {
+          "question": "Which is a control structure in programming?",
+          "options": ["Variable", "Loop", "Function", "Array"],
+          "correct": "Loop"
+        },
+        {
+          "question": "What is pseudocode?",
+          "options": ["A programming language", "A simplified way to represent algorithms", "A type of software", "A hardware component"],
+          "correct": "A simplified way to represent algorithms"
+        },
+        {
+          "question": "Which flowchart symbol represents a decision?",
+          "options": ["Rectangle", "Diamond", "Oval", "Arrow"],
+          "correct": "Diamond"
+        },
+        {
+          "question": "What does decomposition mean in computational thinking?",
+          "options": ["Combining problems", "Breaking down a problem into smaller parts", "Ignoring details", "Repeating tasks"],
+          "correct": "Breaking down a problem into smaller parts"
+        },
+        {
+          "question": "Which is a data type in programming?",
+          "options": ["Loop", "Integer", "Algorithm", "Function"],
+          "correct": "Integer"
+        },
+        {
+          "question": "What is the purpose of a variable?",
+          "options": ["Perform calculations", "Store data", "Control flow", "Display output"],
+          "correct": "Store data"
+        },
+        {
+          "question": "Which operator means \"and\" in programming?",
+          "options": ["||", "&&", "!", "=="],
+          "correct": "&&"
+        },
+        {
+          "question": "What is an iterative process?",
+          "options": ["Making a decision", "Repeating a task until a condition is met", "Storing data", "Defining a function"],
+          "correct": "Repeating a task until a condition is met"
+        },
+        {
+          "question": "What makes a good algorithm?",
+          "options": ["Ambiguity", "Clarity", "Infinite loops", "Errors"],
+          "correct": "Clarity"
+        },
+        {
+          "question": "What does debugging mean?",
+          "options": ["Writing code", "Finding and fixing errors", "Designing algorithms", "Testing software"],
+          "correct": "Finding and fixing errors"
+        },
+        {
+          "question": "Which construct is used for selection?",
+          "options": ["For loop", "If statement", "While loop", "Function call"],
+          "correct": "If statement"
+        },
+        {
+          "question": "Which language structures web pages?",
+          "options": ["HTML", "CSS", "JavaScript", "Python"],
+          "correct": "HTML"
+        },
+        {
+          "question": "What does CSS stand for?",
+          "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style System", "Coding Style Syntax"],
+          "correct": "Cascading Style Sheets"
+        },
+        {
+          "question": "Which HTML tag creates a hyperlink?",
+          "options": ["<img>", "<a>", "<div>", "<p>"],
+          "correct": "<a>"
+        },
+        {
+          "question": "What is JavaScript used for in web development?",
+          "options": ["Styling pages", "Adding interactivity", "Structuring content", "Managing databases"],
+          "correct": "Adding interactivity"
+        },
+        {
+          "question": "Which is a CSS property?",
+          "options": ["color", "font-size", "background-color", "All of the above"],
+          "correct": "All of the above"
+        },
+        {
+          "question": "What does the <head> tag contain?",
+          "options": ["Main content", "Metadata and links to scripts/styles", "Footer information", "Images"],
+          "correct": "Metadata and links to scripts/styles"
+        },
+        {
+          "question": "Which skill is used to organize a website’s layout?",
+          "options": ["Pattern recognition", "Decomposition", "Algorithm design", "Abstraction"],
+          "correct": "Decomposition"
+        },
+        {
+          "question": "What does a web server do?",
+          "options": ["Stores user data", "Hosts and serves web pages", "Designs websites", "Creates databases"],
+          "correct": "Hosts and serves web pages"
+        },
+        {
+          "question": "Which HTML element creates lists?",
+          "options": ["<table>", "<ul> or <ol>", "<div>", "<p>"],
+          "correct": "<ul> or <ol>"
+        },
+        {
+          "question": "What is responsive design?",
+          "options": ["Fast loading pages", "Adapting to different screen sizes", "Using animations", "Secure websites"],
+          "correct": "Adapting to different screen sizes"
+        },
+        {
+          "question": "Which is a front-end technology?",
+          "options": ["SQL", "JavaScript", "PHP", "MySQL"],
+          "correct": "JavaScript"
+        },
+        {
+          "question": "How does abstraction apply to web development?",
+          "options": ["Writing detailed code", "Hiding complex details and showing essentials", "Using multiple languages", "Avoiding design patterns"],
+          "correct": "Hiding complex details and showing essentials"
+        }
+      ]
+    },
+    "section_b": {
+      "questions": [
+        {
+          "part": "Computer Systems A – Data Representation and Computer Structure",
+          "question": "Explain how data is represented in a computer using binary numbers."
+        },
+        {
+          "part": "Introduction to Computer Hardware and Software",
+          "question": "Describe the role of the CPU in a computer system."
+        },
+        {
+          "part": "Computer Networking",
+          "question": "Discuss the importance of networking protocols in computer communication."
+        },
+        {
+          "part": "Computational Thinking and Programming Logic",
+          "question": "Explain what an algorithm is and provide an example."
+        },
+        {
+          "part": "Computational Thinking and Web Development",
+          "question": "Describe how computational thinking applies to web development."
+        },
+        {
+          "part": "Computer Systems A – Data Representation and Computer Structure",
+          "question": "Explain the difference between RAM and ROM."
+        },
+        {
+          "part": "Introduction to Computer Hardware and Software",
+          "question": "Discuss the importance of an operating system in a computer."
+        },
+        {
+          "part": "Computer Networking",
+          "question": "Explain the difference between a LAN and a WAN."
+        },
+        {
+          "part": "Computational Thinking and Programming Logic",
+          "question": "Describe the process of debugging in programming."
+        },
+        {
+          "part": "Computational Thinking and Web Development",
+          "question": "a) Define computational thinking. b) Explain how it applies to solving a programming problem. c) Provide an example of using it in web development."
+        }
+      ]
+    }
+  }

@@ -1,0 +1,351 @@
+{
+    "title": "English Language",
+    "section_a": {
+      "questions": [
+        {
+          "question": "What is the correct pronunciation of the word \"schedule\"?",
+          "options": ["/ˈʃɛdjuːl/", "/ˈskɛdʒuːl/", "/ˈʃɛdʒuːl/", "/ˈskɛdjuːl/"],
+          "correct": "/ˈʃɛdjuːl/"
+        },
+        {
+          "question": "Which of the following is a diphthong?",
+          "options": ["/æ/", "/iː/", "/aɪ/", "/uː/"],
+          "correct": "/aɪ/"
+        },
+        {
+          "question": "Identify the subject in the sentence: \"The cat sat on the mat.\"",
+          "options": ["The mat", "Sat", "The cat", "On the mat"],
+          "correct": "The cat"
+        },
+        {
+          "question": "What type of sentence is this: \"Please pass the salt.\"",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct": "Imperative"
+        },
+        {
+          "question": "Which word is a conjunction in the sentence: \"I wanted to go, but it was raining.\"",
+          "options": ["Wanted", "Go", "But", "Raining"],
+          "correct": "But"
+        },
+        {
+          "question": "What is the main idea of the passage: \"The Earth revolves around the Sun, which is the center of our solar system.\"",
+          "options": ["The Sun is hot.", "The Earth moves around the Sun.", "The solar system is vast.", "The Earth is round."],
+          "correct": "The Earth moves around the Sun."
+        },
+        {
+          "question": "Which of the following is a proper noun?",
+          "options": ["City", "Dog", "London", "Book"],
+          "correct": "London"
+        },
+        {
+          "question": "What is the plural form of \"child\"?",
+          "options": ["Childs", "Children", "Childes", "Childrens"],
+          "correct": "Children"
+        },
+        {
+          "question": "Which sentence is in the past tense?",
+          "options": ["She walks to school.", "She walked to school.", "She is walking to school.", "She will walk to school."],
+          "correct": "She walked to school."
+        },
+        {
+          "question": "What is the antonym of \"happy\"?",
+          "options": ["Joyful", "Sad", "Excited", "Content"],
+          "correct": "Sad"
+        },
+        {
+          "question": "Which of the following is a vowel sound?",
+          "options": ["/b/", "/k/", "/a/", "/t/"],
+          "correct": "/a/"
+        },
+        {
+          "question": "What is the correct spelling of the word meaning \"a place where books are kept\"?",
+          "options": ["Libary", "Library", "Librery", "Libery"],
+          "correct": "Library"
+        },
+        {
+          "question": "Which sentence uses correct subject-verb agreement?",
+          "options": ["The dogs barks loudly.", "The dog bark loudly.", "The dogs bark loudly.", "The dog barks loud."],
+          "correct": "The dogs bark loudly."
+        },
+        {
+          "question": "What is the purpose of a comma in a sentence?",
+          "options": ["To end the sentence", "To indicate a pause", "To ask a question", "To show excitement"],
+          "correct": "To indicate a pause"
+        },
+        {
+          "question": "Which of the following is a compound word?",
+          "options": ["Happiness", "Unhappy", "Sunflower", "Running"],
+          "correct": "Sunflower"
+        },
+        {
+          "question": "What is the main idea of a paragraph usually found in?",
+          "options": ["The first sentence", "The last sentence", "The middle sentence", "Every sentence"],
+          "correct": "The first sentence"
+        },
+        {
+          "question": "Which word is an adjective in the sentence: \"The quick brown fox jumps over the lazy dog.\"",
+          "options": ["Fox", "Jumps", "Quick", "Over"],
+          "correct": "Quick"
+        },
+        {
+          "question": "What is the correct form of the verb in the sentence: \"She ___ to the store yesterday.\"",
+          "options": ["Go", "Goes", "Went", "Going"],
+          "correct": "Went"
+        },
+        {
+          "question": "Which of the following is a preposition?",
+          "options": ["And", "But", "On", "Run"],
+          "correct": "On"
+        },
+        {
+          "question": "What is the synonym of \"big\"?",
+          "options": ["Small", "Large", "Tiny", "Little"],
+          "correct": "Large"
+        },
+        {
+          "question": "Which sentence is a question?",
+          "options": ["I am going to the park.", "Are you going to the park?", "Go to the park.", "The park is fun."],
+          "correct": "Are you going to the park?"
+        },
+        {
+          "question": "What is the correct plural of \"mouse\"?",
+          "options": ["Mouses", "Mice", "Mousees", "Mousen"],
+          "correct": "Mice"
+        },
+        {
+          "question": "Which word is a noun in the sentence: \"The teacher gave us homework.\"",
+          "options": ["Gave", "Us", "Teacher", "Homework"],
+          "correct": "Teacher"
+        },
+        {
+          "question": "What is the correct contraction for \"they are\"?",
+          "options": ["They're", "Their", "There", "Theyr'e"],
+          "correct": "They're"
+        },
+        {
+          "question": "Which of the following is an adverb?",
+          "options": ["Quickly", "Quick", "Quicker", "Quickest"],
+          "correct": "Quickly"
+        },
+        {
+          "question": "What is the main purpose of reading comprehension?",
+          "options": ["To memorize text", "To understand and interpret text", "To write summaries", "To learn new words"],
+          "correct": "To understand and interpret text"
+        },
+        {
+          "question": "Which sentence is in the future tense?",
+          "options": ["I am eating lunch.", "I ate lunch.", "I will eat lunch.", "I eat lunch."],
+          "correct": "I will eat lunch."
+        },
+        {
+          "question": "What is the correct form of the possessive noun in the sentence: \"The ___ toys are on the floor.\"",
+          "options": ["Childs", "Children's", "Childs'", "Childrens'"],
+          "correct": "Children's"
+        },
+        {
+          "question": "Which of the following is a complete sentence?",
+          "options": ["Running fast.", "The dog.", "She runs fast.", "In the park."],
+          "correct": "She runs fast."
+        },
+        {
+          "question": "What is the correct pronunciation of the word \"enough\"?",
+          "options": ["/ɪˈnʌf/", "/ɛˈnʌf/", "/ɪˈnʊf/", "/ɛˈnʊf/"],
+          "correct": "/ɪˈnʌf/"
+        },
+        {
+          "question": "What is the difference between a simile and a metaphor?",
+          "options": ["A simile uses \"like\" or \"as,\" while a metaphor does not.", "A metaphor uses \"like\" or \"as,\" while a simile does not.", "Both use \"like\" or \"as.\"", "Neither uses \"like\" or \"as.\""],
+          "correct": "A simile uses \"like\" or \"as,\" while a metaphor does not."
+        },
+        {
+          "question": "Identify the theme in the poem \"The Road Not Taken\" by Robert Frost.",
+          "options": ["Love and loss", "Choices and consequences", "Nature's beauty", "Friendship"],
+          "correct": "Choices and consequences"
+        },
+        {
+          "question": "What is the correct structure of a five-paragraph essay?",
+          "options": ["Introduction, three body paragraphs, conclusion", "Introduction, two body paragraphs, conclusion", "Introduction, one body paragraph, conclusion", "Introduction, four body paragraphs, conclusion"],
+          "correct": "Introduction, three body paragraphs, conclusion"
+        },
+        {
+          "question": "Which of the following is a complex sentence?",
+          "options": ["I like apples.", "I like apples and oranges.", "Although I like apples, I prefer oranges.", "Apples are red."],
+          "correct": "Although I like apples, I prefer oranges."
+        },
+        {
+          "question": "What is the purpose of a thesis statement in an essay?",
+          "options": ["To summarize the essay", "To introduce the topic", "To state the main argument or point", "To provide evidence"],
+          "correct": "To state the main argument or point"
+        },
+        {
+          "question": "Which literary device is used in the phrase \"The stars danced in the sky\"?",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "correct": "Personification"
+        },
+        {
+          "question": "What is the correct use of a semicolon?",
+          "options": ["To separate items in a list", "To join two independent clauses", "To introduce a quotation", "To end a sentence"],
+          "correct": "To join two independent clauses"
+        },
+        {
+          "question": "Which of the following is an example of alliteration?",
+          "options": ["The cat sat on the mat.", "Peter Piper picked a peck of pickled peppers.", "The sun is shining brightly.", "I have a dream."],
+          "correct": "Peter Piper picked a peck of pickled peppers."
+        },
+        {
+          "question": "What is the main conflict in the story \"Romeo and Juliet\"?",
+          "options": ["Man vs. nature", "Man vs. self", "Man vs. society", "Man vs. man"],
+          "correct": "Man vs. society"
+        },
+        {
+          "question": "Which point of view uses \"I\" or \"we\"?",
+          "options": ["First person", "Second person", "Third person limited", "Third person omniscient"],
+          "correct": "First person"
+        },
+        {
+          "question": "What is the correct format for a book title in an essay?",
+          "options": ["\"Book Title\"", "Book Title", "Book Title", "'Book Title'"],
+          "correct": "Book Title"
+        },
+        {
+          "question": "Which of the following is a run-on sentence?",
+          "options": ["I like reading books.", "I like reading books and writing stories.", "I like reading books, and I write stories.", "I like reading books I write stories."],
+          "correct": "I like reading books I write stories."
+        },
+        {
+          "question": "What is the purpose of a topic sentence in a paragraph?",
+          "options": ["To conclude the paragraph", "To provide supporting details", "To state the main idea", "To transition to the next paragraph"],
+          "correct": "To state the main idea"
+        },
+        {
+          "question": "Which literary term refers to the time and place of a story?",
+          "options": ["Plot", "Setting", "Theme", "Character"],
+          "correct": "Setting"
+        },
+        {
+          "question": "What is the correct use of an apostrophe?",
+          "options": ["To show possession", "To separate items in a list", "To indicate a question", "To end a sentence"],
+          "correct": "To show possession"
+        },
+        {
+          "question": "Which of the following is an example of onomatopoeia?",
+          "options": ["The wind whispered through the trees.", "The stars twinkled like diamonds.", "The clock ticked loudly.", "The door creaked open."],
+          "correct": "The door creaked open."
+        },
+        {
+          "question": "What is the main purpose of a conclusion in an essay?",
+          "options": ["To introduce new ideas", "To summarize the main points", "To provide evidence", "To state the thesis"],
+          "correct": "To summarize the main points"
+        },
+        {
+          "question": "Which sentence uses parallel structure?",
+          "options": ["She likes reading, writing, and to paint.", "She likes reading, writing, and painting.", "She likes to read, write, and painting.", "She likes reading, to write, and paint."],
+          "correct": "She likes reading, writing, and painting."
+        },
+        {
+          "question": "What is the difference between a protagonist and an antagonist?",
+          "options": ["The protagonist is the hero, and the antagonist is the villain.", "The protagonist is the villain, and the antagonist is the hero.", "Both are heroes.", "Both are villains."],
+          "correct": "The protagonist is the hero, and the antagonist is the villain."
+        },
+        {
+          "question": "Which of the following is a dependent clause?",
+          "options": ["I went to the store.", "Because I was hungry.", "She is reading a book.", "The dog barked loudly."],
+          "correct": "Because I was hungry."
+        },
+        {
+          "question": "What is the correct use of quotation marks?",
+          "options": ["To emphasize a word", "To indicate dialogue", "To show possession", "To separate items in a list"],
+          "correct": "To indicate dialogue"
+        },
+        {
+          "question": "Which literary device is used in the sentence: \"The world is a stage.\"",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "correct": "Metaphor"
+        },
+        {
+          "question": "What is the main idea of a story called?",
+          "options": ["Plot", "Setting", "Theme", "Conflict"],
+          "correct": "Theme"
+        },
+        {
+          "question": "Which of the following is an example of a narrative essay?",
+          "options": ["A report on climate change", "A personal story about a vacation", "An analysis of a poem", "A persuasive speech on recycling"],
+          "correct": "A personal story about a vacation"
+        },
+        {
+          "question": "What is the correct form of the verb in the sentence: \"If I ___ you, I would study harder.\"",
+          "options": ["Am", "Is", "Was", "Were"],
+          "correct": "Were"
+        },
+        {
+          "question": "Which sentence uses correct capitalization?",
+          "options": ["i went to paris last summer.", "I went to Paris last summer.", "I went to paris last Summer.", "i went to Paris last summer."],
+          "correct": "I went to Paris last summer."
+        },
+        {
+          "question": "What is the purpose of a hook in an essay introduction?",
+          "options": ["To summarize the essay", "To provide evidence", "To grab the reader's attention", "To state the thesis"],
+          "correct": "To grab the reader's attention"
+        },
+        {
+          "question": "Which of the following is an example of a thesis statement?",
+          "options": ["In this essay, I will discuss the benefits of exercise.", "Exercise is important for health.", "Regular exercise improves physical and mental health.", "Many people exercise daily."],
+          "correct": "Regular exercise improves physical and mental health."
+        },
+        {
+          "question": "What is the correct use of a colon?",
+          "options": ["To separate items in a list", "To introduce a list or explanation", "To show possession", "To end a sentence"],
+          "correct": "To introduce a list or explanation"
+        },
+        {
+          "question": "Which literary term refers to the sequence of events in a story?",
+          "options": ["Setting", "Plot", "Theme", "Character"],
+          "correct": "Plot"
+        }
+      ]
+    },
+    "section_b": {
+      "questions": [
+        {
+          "part": "Oral Language, Reading and Grammar",
+          "question": "Explain the importance of proper pronunciation in effective communication."
+        },
+        {
+          "part": "Oral Language, Reading and Grammar",
+          "question": "Discuss the role of grammar in reading comprehension."
+        },
+        {
+          "part": "Oral Language, Reading and Grammar",
+          "question": "Describe the process of identifying the main idea in a passage."
+        },
+        {
+          "part": "Oral Language, Reading and Grammar",
+          "question": "Explain the difference between a noun and a pronoun with examples."
+        },
+        {
+          "part": "Oral Language, Reading and Grammar",
+          "question": "Discuss the importance of vocabulary in oral language."
+        },
+        {
+          "part": "Grammar, Writing and Literature",
+          "question": "Analyze the use of symbolism in the novel \"To Kill a Mockingbird\" by Harper Lee."
+        },
+        {
+          "part": "Grammar, Writing and Literature",
+          "question": "Explain the structure of a persuasive essay and its key components."
+        },
+        {
+          "part": "Grammar, Writing and Literature",
+          "question": "Discuss the importance of literary devices in poetry. Provide examples."
+        },
+        {
+          "part": "Grammar, Writing and Literature",
+          "question": "Describe the process of writing a narrative essay."
+        },
+        {
+          "part": "Grammar, Writing and Literature",
+          "question": "a) Define a complex sentence and provide an example. b) Explain how complex sentences enhance writing. c) Discuss the role of punctuation in complex sentences."
+        }
+      ]
+    }
+  }

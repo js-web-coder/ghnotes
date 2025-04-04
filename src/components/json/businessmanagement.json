@@ -1,0 +1,351 @@
+{
+    "title": "Business Management",
+    "section_a": {
+      "questions": [
+        {
+          "question": "Which business entity is owned by one person?",
+          "options": ["Partnership", "Sole proprietorship", "Corporation", "Cooperative"],
+          "correct": "Sole proprietorship"
+        },
+        {
+          "question": "What is a key advantage of a sole proprietorship?",
+          "options": ["Limited liability", "Easy to form", "Shared profits", "Complex management"],
+          "correct": "Easy to form"
+        },
+        {
+          "question": "A partnership involves how many owners?",
+          "options": ["One", "Two or more", "None", "Unlimited"],
+          "correct": "Two or more"
+        },
+        {
+          "question": "What is a disadvantage of a partnership?",
+          "options": ["Unlimited liability", "Easy decision-making", "Tax benefits", "Single ownership"],
+          "correct": "Unlimited liability"
+        },
+        {
+          "question": "Which business entity is a separate legal entity from its owners?",
+          "options": ["Sole proprietorship", "Partnership", "Corporation", "Cooperative"],
+          "correct": "Corporation"
+        },
+        {
+          "question": "What does limited liability mean?",
+          "options": ["Owners are fully responsible for debts", "Owners’ personal assets are protected", "Business cannot borrow money", "Profits are limited"],
+          "correct": "Owners’ personal assets are protected"
+        },
+        {
+          "question": "Who owns a corporation?",
+          "options": ["Government", "Employees", "Shareholders", "Managers"],
+          "correct": "Shareholders"
+        },
+        {
+          "question": "What is a cooperative?",
+          "options": ["A business owned by shareholders", "A business owned and operated by its members", "A single-owner business", "A government-run entity"],
+          "correct": "A business owned and operated by its members"
+        },
+        {
+          "question": "Which entity pays corporate taxes?",
+          "options": ["Sole proprietorship", "Partnership", "Corporation", "Cooperative"],
+          "correct": "Corporation"
+        },
+        {
+          "question": "A franchise is an example of:",
+          "options": ["Sole proprietorship", "Partnership", "Business agreement with a parent company", "Cooperative"],
+          "correct": "Business agreement with a parent company"
+        },
+        {
+          "question": "What is a key feature of a nonprofit organization?",
+          "options": ["Profit maximization", "Service to a cause", "Shareholder ownership", "Unlimited liability"],
+          "correct": "Service to a cause"
+        },
+        {
+          "question": "Which business form has the easiest dissolution process?",
+          "options": ["Corporation", "Sole proprietorship", "Partnership", "Cooperative"],
+          "correct": "Sole proprietorship"
+        },
+        {
+          "question": "What is a joint venture?",
+          "options": ["A single-owner business", "A temporary partnership for a specific project", "A permanent corporation", "A cooperative"],
+          "correct": "A temporary partnership for a specific project"
+        },
+        {
+          "question": "Which entity requires articles of incorporation?",
+          "options": ["Sole proprietorship", "Partnership", "Corporation", "Franchise"],
+          "correct": "Corporation"
+        },
+        {
+          "question": "What is a disadvantage of a corporation?",
+          "options": ["Limited liability", "Double taxation", "Easy to form", "Single ownership"],
+          "correct": "Double taxation"
+        },
+        {
+          "question": "Which function of management involves setting goals?",
+          "options": ["Organizing", "Planning", "Leading", "Controlling"],
+          "correct": "Planning"
+        },
+        {
+          "question": "What does organizing involve?",
+          "options": ["Setting objectives", "Arranging resources and tasks", "Motivating employees", "Monitoring performance"],
+          "correct": "Arranging resources and tasks"
+        },
+        {
+          "question": "The function of leading focuses on:",
+          "options": ["Resource allocation", "Inspiring and directing people", "Evaluating results", "Budgeting"],
+          "correct": "Inspiring and directing people"
+        },
+        {
+          "question": "Controlling in management means:",
+          "options": ["Hiring employees", "Monitoring and correcting performance", "Setting goals", "Training staff"],
+          "correct": "Monitoring and correcting performance"
+        },
+        {
+          "question": "Who developed the 14 Principles of Management?",
+          "options": ["Henry Ford", "Henri Fayol", "Peter Drucker", "Frederick Taylor"],
+          "correct": "Henri Fayol"
+        },
+        {
+          "question": "Which function ensures goals are met?",
+          "options": ["Planning", "Organizing", "Leading", "Controlling"],
+          "correct": "Controlling"
+        },
+        {
+          "question": "Delegation is part of which management function?",
+          "options": ["Planning", "Organizing", "Leading", "Controlling"],
+          "correct": "Organizing"
+        },
+        {
+          "question": "What is a key aspect of planning?",
+          "options": ["Assigning tasks", "Forecasting future conditions", "Motivating staff", "Measuring output"],
+          "correct": "Forecasting future conditions"
+        },
+        {
+          "question": "Which function involves communication with employees?",
+          "options": ["Planning", "Organizing", "Leading", "Controlling"],
+          "correct": "Leading"
+        },
+        {
+          "question": "What does a manager do during the controlling phase?",
+          "options": ["Set goals", "Compare actual results with standards", "Hire staff", "Design workflows"],
+          "correct": "Compare actual results with standards"
+        },
+        {
+          "question": "What is the first step in the management process?",
+          "options": ["Organizing", "Planning", "Leading", "Controlling"],
+          "correct": "Planning"
+        },
+        {
+          "question": "Which function involves decision-making?",
+          "options": ["Planning", "Organizing", "Leading", "All of the above"],
+          "correct": "All of the above"
+        },
+        {
+          "question": "Motivation is a key part of:",
+          "options": ["Planning", "Organizing", "Leading", "Controlling"],
+          "correct": "Leading"
+        },
+        {
+          "question": "What is the purpose of a budget in management?",
+          "options": ["To hire employees", "To plan and control finances", "To motivate staff", "To design products"],
+          "correct": "To plan and control finances"
+        },
+        {
+          "question": "Which function ensures efficient resource use?",
+          "options": ["Planning", "Organizing", "Leading", "Controlling"],
+          "correct": "Organizing"
+        },
+        {
+          "question": "The business environment includes:",
+          "options": ["Internal factors only", "External factors only", "Both internal and external factors", "Neither internal nor external factors"],
+          "correct": "Both internal and external factors"
+        },
+        {
+          "question": "Which is an internal factor in the business environment?",
+          "options": ["Government policies", "Employee skills", "Economic conditions", "Technology trends"],
+          "correct": "Employee skills"
+        },
+        {
+          "question": "An example of an external factor is:",
+          "options": ["Company culture", "Competition", "Management style", "Employee morale"],
+          "correct": "Competition"
+        },
+        {
+          "question": "What does SWOT analysis assess?",
+          "options": ["Strengths, Weaknesses, Opportunities, Threats", "Sales, Workers, Operations, Trends", "Systems, Wealth, Orders, Taxes", "Strategies, Work, Objectives, Tasks"],
+          "correct": "Strengths, Weaknesses, Opportunities, Threats"
+        },
+        {
+          "question": "Which is a political factor in the business environment?",
+          "options": ["Inflation rates", "Tax policies", "Consumer trends", "Technological advances"],
+          "correct": "Tax policies"
+        },
+        {
+          "question": "Economic factors include:",
+          "options": ["Employee training", "Interest rates", "Organizational structure", "Company policies"],
+          "correct": "Interest rates"
+        },
+        {
+          "question": "What is a social factor affecting businesses?",
+          "options": ["Government regulations", "Consumer preferences", "Technological innovations", "Interest rates"],
+          "correct": "Consumer preferences"
+        },
+        {
+          "question": "Technological factors can impact a business by:",
+          "options": ["Changing employee morale", "Improving production efficiency", "Setting tax rates", "Controlling competition"],
+          "correct": "Improving production efficiency"
+        },
+        {
+          "question": "What does PESTLE stand for?",
+          "options": ["Product, Efficiency, Standards, Technology, Learning, Environment", "Political, Economic, Social, Technological, Legal, Environmental", "Plan, Execute, Study, Transition, Learn, Evaluate", "Performance, Employment, Systems, Trends, Logistics, Energy"],
+          "correct": "Political, Economic, Social, Technological, Legal, Environmental"
+        },
+        {
+          "question": "A recession is an example of:",
+          "options": ["Political factor", "Economic factor", "Social factor", "Technological factor"],
+          "correct": "Economic factor"
+        },
+        {
+          "question": "Which environmental factor relates to sustainability?",
+          "options": ["Government laws", "Climate change", "Employee turnover", "Market competition"],
+          "correct": "Climate change"
+        },
+        {
+          "question": "What is a legal factor in the business environment?",
+          "options": ["Consumer tastes", "Labor laws", "Technological advancements", "Economic growth"],
+          "correct": "Labor laws"
+        },
+        {
+          "question": "How does competition affect a business?",
+          "options": ["Increases employee morale", "Forces innovation and efficiency", "Reduces legal requirements", "Sets company goals"],
+          "correct": "Forces innovation and efficiency"
+        },
+        {
+          "question": "Which tool analyzes internal strengths and weaknesses?",
+          "options": ["PESTLE", "SWOT", "Budget", "Forecast"],
+          "correct": "SWOT"
+        },
+        {
+          "question": "An increase in unemployment rates is:",
+          "options": ["A social factor", "An economic factor", "A technological factor", "A political factor"],
+          "correct": "An economic factor"
+        },
+        {
+          "question": "International business involves:",
+          "options": ["Trade within one country", "Trade between countries", "Local partnerships", "Nonprofit activities"],
+          "correct": "Trade between countries"
+        },
+        {
+          "question": "A multinational corporation operates in:",
+          "options": ["One country", "Multiple countries", "Only its home country", "Nonprofit sectors"],
+          "correct": "Multiple countries"
+        },
+        {
+          "question": "What is a benefit of international trade?",
+          "options": ["Higher costs", "Access to new markets", "Limited resources", "Reduced competition"],
+          "correct": "Access to new markets"
+        },
+        {
+          "question": "What is a tariff?",
+          "options": ["A tax on exports", "A tax on imports", "A government subsidy", "A trade agreement"],
+          "correct": "A tax on imports"
+        },
+        {
+          "question": "Which is a challenge for multinational corporations?",
+          "options": ["Uniform regulations", "Cultural differences", "Single currency", "Easy communication"],
+          "correct": "Cultural differences"
+        },
+        {
+          "question": "What does FDI stand for?",
+          "options": ["Foreign Direct Investment", "Financial Development Index", "Foreign Domestic Income", "Federal Distribution Initiative"],
+          "correct": "Foreign Direct Investment"
+        },
+        {
+          "question": "A company expanding globally might use:",
+          "options": ["Local sourcing only", "Joint ventures", "Domestic markets only", "Single ownership"],
+          "correct": "Joint ventures"
+        },
+        {
+          "question": "What is globalization?",
+          "options": ["Isolation of economies", "Integration of world economies", "Reduction of trade", "Local business focus"],
+          "correct": "Integration of world economies"
+        },
+        {
+          "question": "Which organization regulates international trade?",
+          "options": ["United Nations", "World Trade Organization", "International Monetary Fund", "World Bank"],
+          "correct": "World Trade Organization"
+        },
+        {
+          "question": "What is an export?",
+          "options": ["Goods sold within a country", "Goods sold to another country", "Goods imported from another country", "Goods produced locally"],
+          "correct": "Goods sold to another country"
+        },
+        {
+          "question": "Currency exchange rates affect:",
+          "options": ["Local sales only", "International trade costs", "Employee wages", "Domestic competition"],
+          "correct": "International trade costs"
+        },
+        {
+          "question": "What is a quota in international trade?",
+          "options": ["A tax on imports", "A limit on import quantities", "A subsidy for exports", "A free trade agreement"],
+          "correct": "A limit on import quantities"
+        },
+        {
+          "question": "Which is an advantage of multinational corporations?",
+          "options": ["High local taxes", "Economies of scale", "Limited market access", "Cultural isolation"],
+          "correct": "Economies of scale"
+        },
+        {
+          "question": "What is outsourcing?",
+          "options": ["Hiring local staff", "Contracting work to external firms", "Producing all goods internally", "Limiting production"],
+          "correct": "Contracting work to external firms"
+        },
+        {
+          "question": "Which factor influences a company’s decision to go international?",
+          "options": ["Domestic competition", "Market saturation", "Global demand", "All of the above"],
+          "correct": "All of the above"
+        }
+      ]
+    },
+    "section_b": {
+      "questions": [
+        {
+          "part": "Forms of Business Entities",
+          "question": "Explain the differences between a sole proprietorship and a partnership."
+        },
+        {
+          "part": "Forms of Business Entities",
+          "question": "Discuss the advantages and disadvantages of a corporation."
+        },
+        {
+          "part": "Forms of Business Entities",
+          "question": "Describe how a cooperative differs from other business entities."
+        },
+        {
+          "part": "Functions of Management",
+          "question": "Explain the planning function of management and its importance."
+        },
+        {
+          "part": "Functions of Management",
+          "question": "Discuss the role of leading in effective management."
+        },
+        {
+          "part": "Functions of Management",
+          "question": "Describe how controlling ensures business success."
+        },
+        {
+          "part": "Business Environment",
+          "question": "Answer the following: a) Define the business environment and its components. b) Explain how economic factors influence a business. c) Discuss one technological factor and its impact on businesses."
+        },
+        {
+          "part": "Business Environment",
+          "question": "Analyze how competition shapes a business’s strategy."
+        },
+        {
+          "part": "International Business and Multinational Corporations",
+          "question": "Discuss the benefits and challenges of international business."
+        },
+        {
+          "part": "International Business and Multinational Corporations",
+          "question": "Explain the role of multinational corporations in globalization."
+        }
+      ]
+    }
+  }

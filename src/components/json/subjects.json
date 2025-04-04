@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "title": "Additional Mathematics",
+            "link": "/subject/addmaths",
+            "bg": "#3b82f6",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "Core Mathematics",
+            "link": "/subject/coremaths",
+            "bg": "#22c55e",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "English Language",
+            "link": "/subject/englishlanguage",
+            "bg": "#ef4444",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "Social Studies",
+            "link": "/subject/socialstudies",
+            "bg": "#eab308",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "Physics",
+            "link": "/subject/physics",
+            "bg": "#a855f7",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "Biology",
+            "link": "/subject/biology",
+            "bg": "#14b8a6",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "Chemistry",
+            "link": "/subject/chemistry",
+            "bg": "#f97316",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "Management In Living",
+            "link": "/subject/managementinliving",
+            "bg": "#6366f1",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "Computer Science",
+            "link": "/subject/computerscience",
+            "bg": "#6b7280",
+            "cl": "#ffffff"
+        },
+        {
+            "title": "Business Management",
+            "link": "/subject/businessmanagement",
+            "bg": "#ec4899",
+            "cl": "#ffffff"
+        }
+    ]
+}
