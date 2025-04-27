@@ -301,6 +301,60 @@
         "question": "Find the cardinality of the power set of $$\\{a, b\\}$$.",
         "options": ["2", "4", "3", "1"],
         "correct": "4"
+      },{
+        "question": "If $$\\vec{a} = (2, 3)$$ and $$\\vec{b} = (1, -1)$$, find $$\\vec{a} + \\vec{b}$$.",
+        "options": ["(3, 2)", "(2, 2)", "(1, 4)", "(3, -2)"],
+        "correct": "(3, 2)"
+      },
+      {
+        "question": "What is the magnitude of the vector $$\\vec{v} = (3, 4)$$.",
+        "options": ["5", "7", "25", "12"],
+        "correct": "5"
+      },
+      {
+        "question": "Find the dot product of $$\\vec{a} = (1, 2)$$ and $$\\vec{b} = (3, 4)$$.",
+        "options": ["11", "7", "14", "8"],
+        "correct": "11"
+      },
+      {
+        "question": "Simplify $$\\sin^2 \\theta + \\cos^2 \\theta$$.",
+        "options": ["0", "1", "sin \\theta", "cos \\theta"],
+        "correct": "1"
+      },
+      {
+        "question": "What is the value of $$\\tan 45^\\circ$$?",
+        "options": ["0", "1", "\\sqrt{2}", "\\sqrt{3}"],
+        "correct": "1"
+      },
+      {
+        "question": "Solve for $$x$$ in $$\\sin x = \\frac{\\sqrt{3}}{2}$$ for $$0^\\circ \\leq x \\leq 360^\\circ$$.",
+        "options": ["30°", "60°", "45°", "90°"],
+        "correct": "60°"
+      },
+      {
+        "question": "If $$\\cos \\theta = \\frac{1}{2}$$ and $$0^\\circ \\leq \\theta \\leq 360^\\circ$$, what is $$\\theta$$?",
+        "options": ["30°", "60°", "45°", "90°"],
+        "correct": "60°"
+      },
+      {
+        "question": "What is $$\\sin 30^\\circ$$?",
+        "options": ["\\frac{1}{2}", "\\frac{\\sqrt{3}}{2}", "\\frac{\\sqrt{2}}{2}", "1"],
+        "correct": "\\frac{1}{2}"
+      },
+      {
+        "question": "If $$\\tan \\theta = 1$$, what is the value of $$\\theta$$?",
+        "options": ["45°", "30°", "60°", "90°"],
+        "correct": "45°"
+      },
+      {
+        "question": "Find the value of $$\\sin 90^\\circ$$.",
+        "options": ["0", "1", "\\frac{\\sqrt{2}}{2}", "\\frac{\\sqrt{3}}{2}"],
+        "correct": "1"
+      },
+      {
+        "question": "If $$\\cos \\theta = 0$$, what is the value of $$\\theta$$?",
+        "options": ["0°", "90°", "180°", "360°"],
+        "correct": "90°"
       }
     ]
   },
@@ -345,6 +399,17 @@
       {
         "part": "Simultaneous Equations Application",
         "question": "The sum of two numbers is $$15$$, and their difference is $$3$$. Find the two numbers."
+      },{
+        "part": "Vectors",
+        "question": "Given vectors $$\\vec{a} = (2, 3)$$ and $$\\vec{b} = (1, -2)$$, find: a) $$\\vec{a} - \\vec{b}$$, b) the magnitude of $$\\vec{a}$$, c) the dot product $$\\vec{a} \\cdot \\vec{b}$$."
+      },
+      {
+        "part": "Trigonometry",
+        "question": "Prove the identity $$\\tan \\theta \\cdot \\cot \\theta = 1$$ and use it to solve $$\\tan \\theta = 1$$ for $$0^\\circ \\leq \\theta \\leq 360^\\circ$$."
+      },
+      {
+        "part": "Trigonometry",
+        "question": "In a right triangle, the opposite side to angle $$\\theta$$ is 5 cm, and the adjacent side is 12 cm. Find $$\\sin \\theta$$, $$\\cos \\theta$$, and $$\\tan \\theta$$."
       }
     ]
   }
