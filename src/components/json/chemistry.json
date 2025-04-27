@@ -301,6 +301,135 @@
           "question": "What is the chemical formula for methane?",
           "options": ["$$CH_2$$", "$$CH_4$$", "$$C_2H_4$$", "$$C_2H_6$$"],
           "correct": "$$CH_4$$"
+        },{
+          "question": "What is nuclear chemistry concerned with?",
+          "options": ["The study of chemical bonds", "The study of reactions in the nucleus", "The study of molecular structures", "The study of gas laws"],
+          "correct": "The study of reactions in the nucleus"
+        },
+        {
+          "question": "What is emitted during alpha decay?",
+          "options": ["Electron", "Neutron", "Helium nucleus", "Photon"],
+          "correct": "Helium nucleus"
+        },
+        {
+          "question": "What is the result of beta-minus decay?",
+          "options": ["A proton turns into a neutron", "A neutron turns into a proton", "An electron is absorbed", "A nucleus splits"],
+          "correct": "A neutron turns into a proton"
+        },
+        {
+          "question": "In the nuclear equation $$^{238}_{92}U \\rightarrow ^{234}_{90}Th + X$$, what is X?",
+          "options": ["Neutron", "Alpha particle", "Beta particle", "Gamma ray"],
+          "correct": "Alpha particle"
+        },
+        {
+          "question": "What is the half-life of a radioactive isotope?",
+          "options": ["Time to decay completely", "Time for half the sample to decay", "Time to emit one particle", "Time to become stable"],
+          "correct": "Time for half the sample to decay"
+        },
+        {
+          "question": "Which type of radiation has the highest penetrating power?",
+          "options": ["Alpha", "Beta", "Gamma", "Neutron"],
+          "correct": "Gamma"
+        },
+        {
+          "question": "In nuclear fission, a heavy nucleus:",
+          "options": ["Combines with another nucleus", "Splits into smaller nuclei", "Emits beta particles", "Absorbs neutrons"],
+          "correct": "Splits into smaller nuclei"
+        },
+        {
+          "question": "What is the purpose of a moderator in a nuclear reactor?",
+          "options": ["To speed up neutrons", "To slow down neutrons", "To absorb radiation", "To cool the reactor"],
+          "correct": "To slow down neutrons"
+        },
+        {
+          "question": "Complete the nuclear equation: $$^{14}_{6}C \\rightarrow ^{14}_{7}N + X$$. What is X?",
+          "options": ["Alpha particle", "Beta-minus particle", "Proton", "Neutron"],
+          "correct": "Beta-minus particle"
+        },
+        {
+          "question": "What is nuclear fusion?",
+          "options": ["Splitting of a nucleus", "Combining of two light nuclei", "Emission of gamma rays", "Decay of a neutron"],
+          "correct": "Combining of two light nuclei"
+        },
+        {
+          "question": "What is the main fuel for nuclear fusion in stars?",
+          "options": ["Uranium", "Plutonium", "Hydrogen", "Carbon"],
+          "correct": "Hydrogen"
+        },
+        {
+          "question": "What is the product of the fusion of two deuterium nuclei?",
+          "options": ["Helium-3", "Helium-4", "Tritium", "Hydrogen"],
+          "correct": "Helium-4"
+        },
+        {
+          "question": "What is the primary hazard of nuclear fission reactors?",
+          "options": ["Radioactive waste", "Air pollution", "Water contamination", "Noise pollution"],
+          "correct": "Radioactive waste"
+        },
+        {
+          "question": "What is a common use of radioactive isotopes in medicine?",
+          "options": ["X-rays", "Radiotherapy", "Blood tests", "Vaccines"],
+          "correct": "Radiotherapy"
+        },
+        {
+          "question": "What is the main difference between fission and fusion?",
+          "options": ["Fission splits heavy nuclei, fusion combines light nuclei", "Fission combines light nuclei, fusion splits heavy nuclei", "Both are the same process", "Fission occurs in stars, fusion occurs on Earth"],
+          "correct": "Fission splits heavy nuclei, fusion combines light nuclei"
+        },
+        {
+          "question": "What is the main product of the fission of uranium-235?",
+          "options": ["Helium", "Neutrons", "Energy", "Carbon"],
+          "correct": "Energy"
+        },
+        {
+          "question": "What is the process of emitting a positron called?",
+          "options": ["Alpha decay", "Beta-plus decay", "Gamma decay", "Fission"],
+          "correct": "Beta-plus decay"
+        },
+        {
+          "question": "What is the main challenge in achieving nuclear fusion on Earth?",
+          "options": ["High temperature and pressure", "Low energy output", "Radioactive waste", "Cost"],
+          "correct": "High temperature and pressure"
+        },
+        {
+          "question": "What is the term for the time it takes for half of a radioactive sample to decay?",
+          "options": ["Decay constant", "Half-life", "Mean life", "Activity"],
+          "correct": "Half-life"
+        },
+        {
+          "question": "What is the main type of radiation emitted during alpha decay?",
+          "options": ["Alpha particles", "Beta particles", "Gamma rays", "Neutrons"],
+          "correct": "Alpha particles"
+        },
+        {
+          "question": "What is the main use of nuclear fission in power plants?",
+          "options": ["To produce heat", "To produce light", "To produce sound", "To produce electricity"],
+          "correct": "To produce electricity"
+        },
+        {
+          "question": "What is the main product of the fusion of hydrogen nuclei?",
+          "options": ["Helium", "Carbon", "Oxygen", "Nitrogen"],
+          "correct": "Helium"
+        },
+        {
+          "question": "What is the main danger of exposure to gamma radiation?",
+          "options": ["Burns", "Radiation sickness", "Cancer", "Allergic reactions"],
+          "correct": "Radiation sickness"
+        },
+        {
+          "question": "What is the main purpose of a Geiger counter?",
+          "options": ["To measure temperature", "To measure radiation", "To measure pressure", "To measure volume"],
+          "correct": "To measure radiation"
+        },
+        {
+          "question": "What is the main difference between alpha and beta decay?",
+          "options": ["Alpha decay emits particles, beta decay emits electrons", "Alpha decay emits electrons, beta decay emits particles", "Both are the same process", "Alpha decay occurs in stars, beta decay occurs on Earth"],
+          "correct": "Alpha decay emits particles, beta decay emits electrons"
+        },
+        {
+          "question": "What is the main use of radioactive isotopes in industry?",
+          "options": ["X-rays", "Radiotherapy", "Tracer studies", "Vaccines"],
+          "correct": "Tracer studies"
         }
       ]
     },
@@ -345,6 +474,21 @@
         {
           "part": "Mole Ratios, Chemical Formulae, and Chemical Equations",
           "question": "Write the balanced equation for the combustion of propane ($$C_3H_8$$) and calculate how many moles of $$CO_2$$ are produced from 5 moles of $$C_3H_8$$."
+        },{
+          "part": "Nuclear Chemistry",
+          "question": "Explain the difference between nuclear fission and nuclear fusion, providing one example of each."
+        },
+        {
+          "part": "Nuclear Reaction Equations",
+          "question": "Write and balance the nuclear equation for the alpha decay of $$^{226}_{88}Ra$$. Explain the changes in atomic number and mass number."
+        },
+        {
+          "part": "Nuclear Chemistry",
+          "question": "Describe the concept of half-life and calculate the amount of a 100 g sample of an isotope remaining after two half-lives if its half-life is 5 years."
+        },
+        {
+          "part": "Nuclear Reaction Equations",
+          "question": "a) Define a nuclear reaction equation. b) Balance the equation $$^{235}_{92}U + ^1_0n \\rightarrow ^{139}_{56}Ba + ^{94}_{36}Kr + X$$ and identify X. c) Explain the significance of neutron emission in this reaction."
         }
       ]
     }
