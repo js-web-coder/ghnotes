@@ -276,6 +276,55 @@
           "question": "What is the difference between mass and weight?",
           "options": ["Mass is the amount of matter, weight is the force of gravity", "Mass is the force of gravity, weight is the amount of matter", "Both are the same", "Mass is measured in newtons, weight in kilograms"],
           "correct": "Mass is the amount of matter, weight is the force of gravity"
+        },{
+          "question": "What is gauge pressure?",
+          "options": ["Total pressure in a system", "Pressure relative to atmospheric pressure", "Pressure due to gravity", "Pressure in a vacuum"],
+          "correct": "Pressure relative to atmospheric pressure"
+        },
+        {
+          "question": "What is the pressure exerted by a 500 N force on an area of 2 m²?",
+          "options": ["250 Pa", "1000 Pa", "500 Pa", "125 Pa"],
+          "correct": "250 Pa"
+        },
+        {
+          "question": "Which device measures pressure in a gas system?",
+          "options": ["Manometer", "Thermometer", "Anemometer", "Hydrometer"],
+          "correct": "Manometer"
+        },
+        {
+          "question": "In a closed container, if the volume of a gas decreases while temperature remains constant, the pressure:",
+          "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+          "correct": "Increases"
+        },
+        {
+          "question": "What is the formula for absolute pressure?",
+          "options": ["Gauge pressure + Atmospheric pressure", "Gauge pressure - Atmospheric pressure", "Force / Area", "Density * g * height"],
+          "correct": "Gauge pressure + Atmospheric pressure"
+        },
+        {
+          "question": "What is the buoyant force on an object submerged in a fluid?",
+          "options": ["Equal to the weight of the fluid displaced", "Equal to the weight of the object", "Greater than the weight of the object", "Less than the weight of the object"],
+          "correct": "Equal to the weight of the fluid displaced"
+        },
+        {
+          "question": "What is the principle behind a barometer?",
+          "options": ["Pressure changes with altitude", "Temperature changes with altitude", "Density changes with altitude", "Volume changes with altitude"],
+          "correct": "Pressure changes with altitude"
+        },
+        {
+          "question": "What is the relationship between pressure and volume in a gas at constant temperature?",
+          "options": ["Directly proportional", "Inversely proportional", "No relationship", "Equal"],
+          "correct": "Inversely proportional"
+        },
+        {
+          "question": "What is the process of changing from solid to gas called?",
+          "options": ["Sublimation", "Deposition", "Condensation", "Evaporation"],
+          "correct": "Sublimation"
+        },
+        {
+          "question": "What is the process of changing from gas to solid called?",
+          "options": ["Sublimation", "Deposition", "Condensation", "Evaporation"],
+          "correct": "Deposition"
         }
       ]
     },
@@ -320,6 +369,9 @@
         {
           "part": "Introduction to Matter",
           "question": "Answer the following: a) Define matter. b) List the three main states of matter. c) Explain one change of state with an example."
+        },{
+          "part": "Pressure",
+          "question": "Explain the relationship between pressure, volume, and temperature in an ideal gas using Boyle’s Law and Charles’ Law. Provide a real-world example where these principles apply."
         }
       ]
     }
